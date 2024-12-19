@@ -1,0 +1,4116 @@
+{
+    "id": "bundle--d34b5c0c-7723-4b7f-b6ff-0106480c1507",
+    "objects": [
+  {
+    "created": "2023-03-11T00:21:08.791Z",
+    "id": "relationship--5180aa55-e74e-4602-a7e0-20731ede38d4",
+    "modified": "2023-03-11T00:21:08.791Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--e1a7e868-8f5f-454c-8814-86dac47add5d",
+    "target_ref": "course-of-action--2995bc22-2851-4345-ad19-4e7e295be264",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.792Z",
+    "id": "relationship--2930be01-e77a-4d50-860d-322e8f8ac8f1",
+    "modified": "2023-03-11T00:21:08.792Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--e1a7e868-8f5f-454c-8814-86dac47add5d",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.793Z",
+    "id": "relationship--9e2085c1-40b1-4d70-9ffc-52e1c389ecee",
+    "modified": "2023-03-11T00:21:08.793Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--cbcf1735-9386-41e3-ba50-f0f4566453b2",
+    "target_ref": "course-of-action--2995bc22-2851-4345-ad19-4e7e295be264",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.800Z",
+    "id": "relationship--df2091de-a3e9-4458-a7df-b982db6cc1eb",
+    "modified": "2023-03-11T00:21:08.800Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--cbcf1735-9386-41e3-ba50-f0f4566453b2",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.801Z",
+    "id": "relationship--ff6a787a-1bb0-4a76-9315-d594472f28fc",
+    "modified": "2023-03-11T00:21:08.801Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--40dfd686-b4d8-47a9-8631-1c23af75e361",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.801Z",
+    "id": "relationship--fc5281f2-f636-4591-b51c-47e393c38cb7",
+    "modified": "2023-03-11T00:21:08.801Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--299c0b3c-4c62-4697-a9ca-5a0bcbd5d8e6",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.801Z",
+    "id": "relationship--9db5eee1-24b8-4a51-8d48-5b3604a9bec0",
+    "modified": "2023-03-11T00:21:08.801Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--d69b9b0c-921b-487b-978c-0706c6b058f4",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.801Z",
+    "id": "relationship--a9d64da0-b4c4-4671-b43c-6ae5bbc68a5c",
+    "modified": "2023-03-11T00:21:08.801Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--52e18fcd-ce0f-42a5-852c-25d8d5e661a5",
+    "target_ref": "course-of-action--21da4fd4-27ad-4e9c-b93d-0b9b14d02c96",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.801Z",
+    "id": "relationship--370d5c33-05a0-4824-ab98-9740b98e3e5d",
+    "modified": "2023-03-11T00:21:08.801Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--52e18fcd-ce0f-42a5-852c-25d8d5e661a5",
+    "target_ref": "course-of-action--23843cff-f7b9-4659-a7b7-713ef347f547",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.801Z",
+    "id": "relationship--463302f0-625c-4730-9ad6-b27930fb27f7",
+    "modified": "2023-03-11T00:21:08.801Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--52e18fcd-ce0f-42a5-852c-25d8d5e661a5",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.801Z",
+    "id": "relationship--0ef54348-65ab-467f-bff6-2be6d78abf50",
+    "modified": "2023-03-11T00:21:08.801Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--52e18fcd-ce0f-42a5-852c-25d8d5e661a5",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.802Z",
+    "id": "relationship--8183f8ab-f0ae-4c73-a588-04b2e8c27e10",
+    "modified": "2023-03-11T00:21:08.802Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9acbcf56-a48a-4d82-994a-882f06475d13",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.802Z",
+    "id": "relationship--9983eef8-6da7-4607-bb49-001d3a58a7f9",
+    "modified": "2023-03-11T00:21:08.802Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--6374fb60-1be8-4f99-b0cf-0912db888077",
+    "target_ref": "course-of-action--21da4fd4-27ad-4e9c-b93d-0b9b14d02c96",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.802Z",
+    "id": "relationship--736fbc1d-c31c-4d18-9c66-0fab2d9b4938",
+    "modified": "2023-03-11T00:21:08.802Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--6374fb60-1be8-4f99-b0cf-0912db888077",
+    "target_ref": "course-of-action--23843cff-f7b9-4659-a7b7-713ef347f547",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.802Z",
+    "id": "relationship--3f0bbab1-8eef-4b75-adc4-9ce48fc56f61",
+    "modified": "2023-03-11T00:21:08.802Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--6374fb60-1be8-4f99-b0cf-0912db888077",
+    "target_ref": "course-of-action--47e0e9fe-96ce-4f65-8bb1-8be1feacb5db",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.802Z",
+    "id": "relationship--5d3598bc-7b41-48c2-9a10-3b5ba56dfc0e",
+    "modified": "2023-03-11T00:21:08.802Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--6374fb60-1be8-4f99-b0cf-0912db888077",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.803Z",
+    "id": "relationship--516f2568-02b3-46b5-b4d9-1850b1ebfb0a",
+    "modified": "2023-03-11T00:21:08.803Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9e6c51f3-4e02-4335-8247-506aca6d236b",
+    "target_ref": "course-of-action--72dade3e-1cba-4182-b3b3-a77ca52f02a1",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.803Z",
+    "id": "relationship--b83454fb-7e1c-4bc5-95b4-b1791e39dba8",
+    "modified": "2023-03-11T00:21:08.803Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9e6c51f3-4e02-4335-8247-506aca6d236b",
+    "target_ref": "course-of-action--47e0e9fe-96ce-4f65-8bb1-8be1feacb5db",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.803Z",
+    "id": "relationship--4e0e22e7-2173-400f-b927-4c5dc0eb00c5",
+    "modified": "2023-03-11T00:21:08.803Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9e6c51f3-4e02-4335-8247-506aca6d236b",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.803Z",
+    "id": "relationship--243e158c-f0aa-41d0-b110-165dd171e25e",
+    "modified": "2023-03-11T00:21:08.803Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9e6c51f3-4e02-4335-8247-506aca6d236b",
+    "target_ref": "course-of-action--e8242a33-481c-4891-af63-4cf3e4cf6aff",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.803Z",
+    "id": "relationship--9d5724a2-b1ad-434b-a1c5-a6af58b217c7",
+    "modified": "2023-03-11T00:21:08.803Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "target_ref": "course-of-action--21da4fd4-27ad-4e9c-b93d-0b9b14d02c96",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.803Z",
+    "id": "relationship--2700704d-592f-4597-a8fd-846d83095107",
+    "modified": "2023-03-11T00:21:08.803Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "target_ref": "course-of-action--987988f0-cf86-4680-a875-2f6456ab2448",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.803Z",
+    "id": "relationship--d8155376-89ae-424d-8cf7-55dcd8f38f12",
+    "modified": "2023-03-11T00:21:08.803Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.804Z",
+    "id": "relationship--57a5f1dd-9d03-4feb-a400-efb73315f50c",
+    "modified": "2023-03-11T00:21:08.804Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "target_ref": "course-of-action--23843cff-f7b9-4659-a7b7-713ef347f547",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.804Z",
+    "id": "relationship--a7a1a622-68cd-4aaa-8949-6c28d4061315",
+    "modified": "2023-03-11T00:21:08.804Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "target_ref": "course-of-action--47e0e9fe-96ce-4f65-8bb1-8be1feacb5db",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.804Z",
+    "id": "relationship--e57f681d-efc1-44a4-a47d-7b68abefc899",
+    "modified": "2023-03-11T00:21:08.804Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.804Z",
+    "id": "relationship--a39d3947-47a1-4f78-9d4b-9e2565b4e915",
+    "modified": "2023-03-11T00:21:08.804Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "target_ref": "course-of-action--590777b3-b475-4c7c-aaf8-f4a73b140312",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.804Z",
+    "id": "relationship--9e9021b7-b6e4-4727-90a6-571d317e4092",
+    "modified": "2023-03-11T00:21:08.804Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "target_ref": "course-of-action--b5dbb4c5-b0b1-40b1-80b6-e9e84ab90067",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.804Z",
+    "id": "relationship--f2d01207-ee23-4445-a2e8-bc3fc6d11f2d",
+    "modified": "2023-03-11T00:21:08.804Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9d8d0b02-8c4c-4f0d-b11f-88aa8534f31d",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.804Z",
+    "id": "relationship--b56fb125-75dc-4685-8896-3247b84abf8f",
+    "modified": "2023-03-11T00:21:08.804Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9d8d0b02-8c4c-4f0d-b11f-88aa8534f31d",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.805Z",
+    "id": "relationship--4d8ba17c-1d4d-4b9c-b340-ed3e5f2f9196",
+    "modified": "2023-03-11T00:21:08.805Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--6b5e2f02-5c09-4e53-adec-04679a0e6ced",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.805Z",
+    "id": "relationship--23795760-4584-4fbf-b7b4-db5c528fcbae",
+    "modified": "2023-03-11T00:21:08.805Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--0a2365d7-b80c-4dbb-a277-5a08d1f74d99",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.805Z",
+    "id": "relationship--c655373e-3b0b-4274-836c-e87da6be1a53",
+    "modified": "2023-03-11T00:21:08.805Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--0a2365d7-b80c-4dbb-a277-5a08d1f74d99",
+    "target_ref": "course-of-action--987988f0-cf86-4680-a875-2f6456ab2448",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.805Z",
+    "id": "relationship--abaf6f47-95b2-47e7-b8a0-b7ee14b1965f",
+    "modified": "2023-03-11T00:21:08.805Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--0a2365d7-b80c-4dbb-a277-5a08d1f74d99",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.805Z",
+    "id": "relationship--184587fc-d304-4ed8-8c7b-22d65480b48f",
+    "modified": "2023-03-11T00:21:08.805Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--dfbfc051-6a59-4484-bedb-ce538c268b3f",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.805Z",
+    "id": "relationship--149c7cd9-d80e-4718-a2af-ced65faa6209",
+    "modified": "2023-03-11T00:21:08.805Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9d4ec083-f971-4beb-bebb-ce96f5095e56",
+    "target_ref": "course-of-action--7da0387c-ba92-4553-b291-b636ee42b2eb",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.806Z",
+    "id": "relationship--bc409c65-2705-492d-9ef1-adc3d650abd9",
+    "modified": "2023-03-11T00:21:08.806Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--ebc092ef-b5ae-4dd3-90b5-ae896a9996da",
+    "target_ref": "course-of-action--feff9142-e8c2-46f4-842b-bd6fb3d41157",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.806Z",
+    "id": "relationship--728e14d9-8722-4903-b0e6-7f5f97431724",
+    "modified": "2023-03-11T00:21:08.806Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--ae679eb2-866d-43aa-aff2-e7487cb0ce7d",
+    "target_ref": "course-of-action--feff9142-e8c2-46f4-842b-bd6fb3d41157",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.806Z",
+    "id": "relationship--383c2c66-d0b1-4469-8c1e-8848a7a0507e",
+    "modified": "2023-03-11T00:21:08.806Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f9b7443e-03e9-4e7a-b60b-d281475ea31f",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.806Z",
+    "id": "relationship--a45ce9c5-cddb-4e5f-988b-f57aed956b12",
+    "modified": "2023-03-11T00:21:08.806Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f9b7443e-03e9-4e7a-b60b-d281475ea31f",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.806Z",
+    "id": "relationship--3fc1647e-90f8-4312-84b8-5e9e98d65aa7",
+    "modified": "2023-03-11T00:21:08.806Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f9b7443e-03e9-4e7a-b60b-d281475ea31f",
+    "target_ref": "course-of-action--feff9142-e8c2-46f4-842b-bd6fb3d41157",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.807Z",
+    "id": "relationship--25d8c167-5410-40fe-a112-8a36234677d8",
+    "modified": "2023-03-11T00:21:08.807Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--ddf33412-e162-4ea2-af4a-0b227af4238c",
+    "target_ref": "course-of-action--65401701-019d-44ff-b223-08d520bb0e7b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.807Z",
+    "id": "relationship--ef63e474-cc2b-4d82-9c1a-2b8088480a7d",
+    "modified": "2023-03-11T00:21:08.807Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--e3388c78-2a8d-47c2-8422-c1398b324462",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.807Z",
+    "id": "relationship--0b7b0d47-5d28-4225-ae8c-750285927488",
+    "modified": "2023-03-11T00:21:08.807Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.807Z",
+    "id": "relationship--b15d7957-04b1-4f85-b568-b9643802ed45",
+    "modified": "2023-03-11T00:21:08.807Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--987988f0-cf86-4680-a875-2f6456ab2448",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.807Z",
+    "id": "relationship--34f593a9-6d69-49e0-addb-bed497c76f4c",
+    "modified": "2023-03-11T00:21:08.807Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--a2c36a5d-4058-475e-8e77-fff75e50d3b9",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.807Z",
+    "id": "relationship--71052f7b-7302-4b1a-bccd-1285b65f73cc",
+    "modified": "2023-03-11T00:21:08.807Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--72dade3e-1cba-4182-b3b3-a77ca52f02a1",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.808Z",
+    "id": "relationship--6bdf6312-3668-4d29-9450-e83852c3da59",
+    "modified": "2023-03-11T00:21:08.808Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.808Z",
+    "id": "relationship--cd2cd05a-5551-44e8-867f-817c9e2c2f76",
+    "modified": "2023-03-11T00:21:08.808Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--90c218c3-fbf8-4830-98a7-e8cfb7eaa485",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.808Z",
+    "id": "relationship--7f18f947-cfce-418b-b914-fe8b7fb339b7",
+    "modified": "2023-03-11T00:21:08.808Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--2f316f6c-ae42-44fe-adf8-150989e0f6d3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.808Z",
+    "id": "relationship--491b444e-106a-4748-973e-7defc40101af",
+    "modified": "2023-03-11T00:21:08.808Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--23843cff-f7b9-4659-a7b7-713ef347f547",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.808Z",
+    "id": "relationship--9004002c-5ba1-428d-8298-86cc9abb04fd",
+    "modified": "2023-03-11T00:21:08.808Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.808Z",
+    "id": "relationship--ba4c714e-40c5-4ca1-9109-51c4be98f5fe",
+    "modified": "2023-03-11T00:21:08.808Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--f9f9e6ef-bc0a-41ad-ba11-0924e5e84c4c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.808Z",
+    "id": "relationship--5ca7180f-a012-4e20-aff0-0ef258d61b73",
+    "modified": "2023-03-11T00:21:08.808Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--609191bf-7d06-40e4-b1f8-9e11eb3ff8a6",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.809Z",
+    "id": "relationship--c201c592-409e-453c-b0b8-870d22cfc6cf",
+    "modified": "2023-03-11T00:21:08.809Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--90f39ee1-d5a3-4aaa-9f28-3b42815b0d46",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.809Z",
+    "id": "relationship--0f8e6ffc-fcca-44e3-bab0-e9151278e5e3",
+    "modified": "2023-03-11T00:21:08.809Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.809Z",
+    "id": "relationship--a4217265-de5f-46af-b753-a233d734b2f6",
+    "modified": "2023-03-11T00:21:08.809Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--49c06d54-9002-491d-9147-8efb537fbd26",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.809Z",
+    "id": "relationship--d16f510b-0173-4d59-976d-878587e0b3e7",
+    "modified": "2023-03-11T00:21:08.809Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--e8242a33-481c-4891-af63-4cf3e4cf6aff",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.809Z",
+    "id": "relationship--28a81174-6d0e-4641-8c30-0f3ae08722dc",
+    "modified": "2023-03-11T00:21:08.809Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--590777b3-b475-4c7c-aaf8-f4a73b140312",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.809Z",
+    "id": "relationship--bae81998-fbed-45a2-a124-6f1bfc840a4e",
+    "modified": "2023-03-11T00:21:08.809Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--7da0387c-ba92-4553-b291-b636ee42b2eb",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.809Z",
+    "id": "relationship--77a8ee7b-3842-45cb-9a22-2598e22e8f1e",
+    "modified": "2023-03-11T00:21:08.809Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.810Z",
+    "id": "relationship--9ced2194-fbff-4a49-b14a-58917fed9305",
+    "modified": "2023-03-11T00:21:08.810Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--b9f0c069-abbe-4a07-a245-2481219a1463",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.810Z",
+    "id": "relationship--de0c395a-9e28-4fa7-baa9-dffbf82b7750",
+    "modified": "2023-03-11T00:21:08.810Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--2c2ad92a-d710-41ab-a996-1db143bb4808",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.810Z",
+    "id": "relationship--3b871f2b-df67-4e8f-9206-ee2e2d11a0d8",
+    "modified": "2023-03-11T00:21:08.810Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "target_ref": "course-of-action--b5dbb4c5-b0b1-40b1-80b6-e9e84ab90067",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.810Z",
+    "id": "relationship--16a484ae-1a2b-4208-8be2-f3e61cffdde0",
+    "modified": "2023-03-11T00:21:08.810Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--82e41a34-a068-4362-a3ae-ea82baf7e6e1",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.810Z",
+    "id": "relationship--e58651a0-7a91-4c63-8dbb-d0ab06e62eed",
+    "modified": "2023-03-11T00:21:08.810Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--82e41a34-a068-4362-a3ae-ea82baf7e6e1",
+    "target_ref": "course-of-action--12241367-a8b7-49b4-b86e-2236901ba50c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.810Z",
+    "id": "relationship--20a2e814-a3ab-4ca1-a925-ec8c70c9cc29",
+    "modified": "2023-03-11T00:21:08.810Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--82e41a34-a068-4362-a3ae-ea82baf7e6e1",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.812Z",
+    "id": "relationship--c88608a3-9527-4c0b-95e3-86fb897478a7",
+    "modified": "2023-03-11T00:21:08.812Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--82e41a34-a068-4362-a3ae-ea82baf7e6e1",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.812Z",
+    "id": "relationship--df085d29-19dd-45ea-9ce4-5e19a4fd0e38",
+    "modified": "2023-03-11T00:21:08.812Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--82e41a34-a068-4362-a3ae-ea82baf7e6e1",
+    "target_ref": "course-of-action--feff9142-e8c2-46f4-842b-bd6fb3d41157",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.812Z",
+    "id": "relationship--5a8bae46-900e-4ca1-b7ca-28b9a6be19fe",
+    "modified": "2023-03-11T00:21:08.812Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--82e41a34-a068-4362-a3ae-ea82baf7e6e1",
+    "target_ref": "course-of-action--b5dbb4c5-b0b1-40b1-80b6-e9e84ab90067",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.813Z",
+    "id": "relationship--ad3cdb58-1a92-4ca3-a81b-3caafb4c9c38",
+    "modified": "2023-03-11T00:21:08.813Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a88078d5-3be0-4adf-9c55-2f94ce5f1a6c",
+    "target_ref": "course-of-action--2f316f6c-ae42-44fe-adf8-150989e0f6d3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.813Z",
+    "id": "relationship--937f086a-862c-4098-af30-3601048c32b9",
+    "modified": "2023-03-11T00:21:08.813Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--81983ff0-ead7-429a-9348-850bc88cdcae",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.813Z",
+    "id": "relationship--05ac487f-27bd-48e9-b3d9-7aaa87fd3bd8",
+    "modified": "2023-03-11T00:21:08.813Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--81983ff0-ead7-429a-9348-850bc88cdcae",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.813Z",
+    "id": "relationship--50e30766-255e-47b6-8f75-def247ebb26c",
+    "modified": "2023-03-11T00:21:08.813Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--81983ff0-ead7-429a-9348-850bc88cdcae",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.813Z",
+    "id": "relationship--aba1148d-a39a-4b37-84ec-0717fa3d2687",
+    "modified": "2023-03-11T00:21:08.813Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--356e49df-c157-4c77-811b-e124405592cc",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.813Z",
+    "id": "relationship--bd64d0b8-1462-40a9-91fc-1ff57620b246",
+    "modified": "2023-03-11T00:21:08.813Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--356e49df-c157-4c77-811b-e124405592cc",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.813Z",
+    "id": "relationship--773dc51a-ea45-4bb4-b872-216a90576698",
+    "modified": "2023-03-11T00:21:08.813Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--356e49df-c157-4c77-811b-e124405592cc",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.814Z",
+    "id": "relationship--fa2f8c93-7e45-4ffd-91e4-708f71a7783b",
+    "modified": "2023-03-11T00:21:08.814Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--aae7109b-c962-4e9f-ac66-8140fd2a7fb4",
+    "target_ref": "course-of-action--feff9142-e8c2-46f4-842b-bd6fb3d41157",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.814Z",
+    "id": "relationship--93d519f0-8b7e-463b-8040-e762fcca660a",
+    "modified": "2023-03-11T00:21:08.814Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--b1a00fdf-8100-4045-aea4-9491e44d470c",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.814Z",
+    "id": "relationship--6b33c02c-b0b0-432c-9566-ac25c648972a",
+    "modified": "2023-03-11T00:21:08.814Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--b1a00fdf-8100-4045-aea4-9491e44d470c",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.814Z",
+    "id": "relationship--e8105949-3c7e-4560-b8ef-131ec80a0622",
+    "modified": "2023-03-11T00:21:08.814Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--b1a00fdf-8100-4045-aea4-9491e44d470c",
+    "target_ref": "course-of-action--90c218c3-fbf8-4830-98a7-e8cfb7eaa485",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.814Z",
+    "id": "relationship--667d60c9-733e-468d-a914-5f588c0835b5",
+    "modified": "2023-03-11T00:21:08.814Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--95928389-5642-435c-84d6-077bb53f0ffb",
+    "target_ref": "course-of-action--2f316f6c-ae42-44fe-adf8-150989e0f6d3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.814Z",
+    "id": "relationship--7fa24cb5-e57e-42d2-a37f-b6d164685ea4",
+    "modified": "2023-03-11T00:21:08.814Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--95928389-5642-435c-84d6-077bb53f0ffb",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.814Z",
+    "id": "relationship--62af7379-90e4-4aee-b98c-c36231420651",
+    "modified": "2023-03-11T00:21:08.814Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--6615035a-d18d-4b0b-b437-8628688cc9f8",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.815Z",
+    "id": "relationship--5ea0a6d0-98af-47b2-866f-6ea5af680d34",
+    "modified": "2023-03-11T00:21:08.815Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--ba176560-8189-47f7-9db2-584259d6cb48",
+    "target_ref": "course-of-action--f9f9e6ef-bc0a-41ad-ba11-0924e5e84c4c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.815Z",
+    "id": "relationship--3064ed3f-ad4d-4f2d-bd3c-baeca8afa6e3",
+    "modified": "2023-03-11T00:21:08.815Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--8fc7599c-5c27-45dc-92a6-3fcede2f450f",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.815Z",
+    "id": "relationship--e8b2dd06-1460-406c-b6a9-b739f18facde",
+    "modified": "2023-03-11T00:21:08.815Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--8fc7599c-5c27-45dc-92a6-3fcede2f450f",
+    "target_ref": "course-of-action--65401701-019d-44ff-b223-08d520bb0e7b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.815Z",
+    "id": "relationship--120a7fc6-f97a-4ac0-bfd7-4dd7b3b8ed49",
+    "modified": "2023-03-11T00:21:08.815Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--027de100-b9bf-452b-99e7-7955b2899934",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.815Z",
+    "id": "relationship--49c78025-9302-46ec-8bc4-3e4dc1b24276",
+    "modified": "2023-03-11T00:21:08.815Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--027de100-b9bf-452b-99e7-7955b2899934",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.815Z",
+    "id": "relationship--58b600ad-af17-4392-a401-6af1ad669227",
+    "modified": "2023-03-11T00:21:08.815Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--027de100-b9bf-452b-99e7-7955b2899934",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.815Z",
+    "id": "relationship--6c03f617-26b9-43aa-83f6-87361134a920",
+    "modified": "2023-03-11T00:21:08.815Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--04ce3f01-86b3-4e14-9f66-1c5680a6a4fe",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.816Z",
+    "id": "relationship--deced96e-5df4-48ca-9499-6c36c851490e",
+    "modified": "2023-03-11T00:21:08.816Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--04ce3f01-86b3-4e14-9f66-1c5680a6a4fe",
+    "target_ref": "course-of-action--90c218c3-fbf8-4830-98a7-e8cfb7eaa485",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.816Z",
+    "id": "relationship--3d7f11e6-55d0-484d-bea1-eb834db16f3a",
+    "modified": "2023-03-11T00:21:08.816Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--964c0fac-f68f-4774-8b7e-95c5aad61187",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.816Z",
+    "id": "relationship--fbeed3c2-79d6-4f75-a60c-76d3794f620d",
+    "modified": "2023-03-11T00:21:08.816Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--964c0fac-f68f-4774-8b7e-95c5aad61187",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.816Z",
+    "id": "relationship--d58617d8-1870-42e1-a34d-625b96805cf6",
+    "modified": "2023-03-11T00:21:08.816Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5b4fc7a8-2f62-445a-a15f-d185394ddf8a",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.816Z",
+    "id": "relationship--31263705-474b-48c1-b4ba-28115aa65995",
+    "modified": "2023-03-11T00:21:08.816Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5b4fc7a8-2f62-445a-a15f-d185394ddf8a",
+    "target_ref": "course-of-action--987988f0-cf86-4680-a875-2f6456ab2448",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.816Z",
+    "id": "relationship--b379e13a-a94f-4be3-8b40-6e3acca7981e",
+    "modified": "2023-03-11T00:21:08.816Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5b4fc7a8-2f62-445a-a15f-d185394ddf8a",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.817Z",
+    "id": "relationship--54bc03cf-03d2-40fe-8b40-0af9c2776c69",
+    "modified": "2023-03-11T00:21:08.817Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--3e91cbe9-80d9-4ba8-a210-4bba5ac39362",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.817Z",
+    "id": "relationship--a0b811c1-d8bc-43dc-8d23-768c34666b28",
+    "modified": "2023-03-11T00:21:08.817Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--3e91cbe9-80d9-4ba8-a210-4bba5ac39362",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.817Z",
+    "id": "relationship--b0822fee-62df-4d32-8ce9-3b759c89312a",
+    "modified": "2023-03-11T00:21:08.817Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--3e91cbe9-80d9-4ba8-a210-4bba5ac39362",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.817Z",
+    "id": "relationship--2fcf97b0-c7e4-49e8-9e8d-3e42c24fe919",
+    "modified": "2023-03-11T00:21:08.817Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5a84d0b5-c871-4909-b139-2a8b73bea259",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.817Z",
+    "id": "relationship--39c2924d-22f2-4fb5-aa12-033665c58c7a",
+    "modified": "2023-03-11T00:21:08.817Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5a84d0b5-c871-4909-b139-2a8b73bea259",
+    "target_ref": "course-of-action--987988f0-cf86-4680-a875-2f6456ab2448",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.817Z",
+    "id": "relationship--83c40069-0219-4527-af9b-af5b3161b24c",
+    "modified": "2023-03-11T00:21:08.817Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5a84d0b5-c871-4909-b139-2a8b73bea259",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.817Z",
+    "id": "relationship--eadb7c03-3847-4c06-88e7-612f5f25c28e",
+    "modified": "2023-03-11T00:21:08.817Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5a84d0b5-c871-4909-b139-2a8b73bea259",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.818Z",
+    "id": "relationship--9a6bb112-8965-42b2-9bfc-83efeb8b1629",
+    "modified": "2023-03-11T00:21:08.818Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f954d15d-f61a-4924-97cd-a2a7a871424a",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.818Z",
+    "id": "relationship--389e8b43-4fd9-4af7-9332-86cf9cb1d88a",
+    "modified": "2023-03-11T00:21:08.818Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f954d15d-f61a-4924-97cd-a2a7a871424a",
+    "target_ref": "course-of-action--987988f0-cf86-4680-a875-2f6456ab2448",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.818Z",
+    "id": "relationship--768378df-ea24-4dfc-887e-8c20c2bfebde",
+    "modified": "2023-03-11T00:21:08.818Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f954d15d-f61a-4924-97cd-a2a7a871424a",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.818Z",
+    "id": "relationship--cb98633d-7e65-4213-940c-81e41602eb7b",
+    "modified": "2023-03-11T00:21:08.818Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f954d15d-f61a-4924-97cd-a2a7a871424a",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.818Z",
+    "id": "relationship--a93d7ec4-2f48-46fc-b5b5-baa2b82c6700",
+    "modified": "2023-03-11T00:21:08.818Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--cbdfe68a-6c9b-4e05-8efe-b8acb803386c",
+    "target_ref": "course-of-action--b045d015-6bed-4490-bd38-56b41ece59a0",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.818Z",
+    "id": "relationship--3d8a63f8-e3a1-43a4-8639-ff0d0181c12b",
+    "modified": "2023-03-11T00:21:08.818Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--83bfe69d-ba7a-4791-9740-41cce6cbc241",
+    "target_ref": "course-of-action--b045d015-6bed-4490-bd38-56b41ece59a0",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.819Z",
+    "id": "relationship--a7bc7e33-55d8-44d3-9f09-470dc7119e4f",
+    "modified": "2023-03-11T00:21:08.819Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--944ed1d2-067e-42af-a7da-e1cd601bd369",
+    "target_ref": "course-of-action--b045d015-6bed-4490-bd38-56b41ece59a0",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.819Z",
+    "id": "relationship--06067ec7-bed2-48b7-80f9-fb3f6c8d6177",
+    "modified": "2023-03-11T00:21:08.819Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--73b761ae-9fae-4db9-aecd-8c0e7b28d6c8",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.819Z",
+    "id": "relationship--41013120-9a48-43c0-8150-baef45e288a9",
+    "modified": "2023-03-11T00:21:08.819Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--73b761ae-9fae-4db9-aecd-8c0e7b28d6c8",
+    "target_ref": "course-of-action--987988f0-cf86-4680-a875-2f6456ab2448",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.819Z",
+    "id": "relationship--b5985378-a2ec-4c1d-9ed3-ff719e2c809d",
+    "modified": "2023-03-11T00:21:08.819Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--73b761ae-9fae-4db9-aecd-8c0e7b28d6c8",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.819Z",
+    "id": "relationship--c4955c22-0a2c-48e4-9e3c-f3a98392871c",
+    "modified": "2023-03-11T00:21:08.819Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--73b761ae-9fae-4db9-aecd-8c0e7b28d6c8",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.819Z",
+    "id": "relationship--c8772b21-4c78-40ba-bc66-3d09f8914380",
+    "modified": "2023-03-11T00:21:08.819Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--8d96c2d9-a369-4651-8919-f69f3b0a0cdd",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.819Z",
+    "id": "relationship--ca412e99-55b3-443a-a8df-588d2ea7f3dd",
+    "modified": "2023-03-11T00:21:08.819Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--8d96c2d9-a369-4651-8919-f69f3b0a0cdd",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.820Z",
+    "id": "relationship--665ead8f-0d19-41be-bb96-274b9f2395d0",
+    "modified": "2023-03-11T00:21:08.820Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--e8afa4f9-a2bf-41d0-8814-1af5c4ab0ac9",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.820Z",
+    "id": "relationship--5ea4243c-c3af-49cb-84d0-786a1d206ae1",
+    "modified": "2023-03-11T00:21:08.820Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--e8afa4f9-a2bf-41d0-8814-1af5c4ab0ac9",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.820Z",
+    "id": "relationship--4700d6d9-bf58-4598-9d80-c636ef16c29c",
+    "modified": "2023-03-11T00:21:08.820Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--d8f32256-02da-4c70-8587-9c2e32ba7cdf",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.820Z",
+    "id": "relationship--74d5ffed-086b-4c39-b60f-71554d4b98ea",
+    "modified": "2023-03-11T00:21:08.820Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f3c82ed5-f77c-4f0a-996f-3fb1da366d0d",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.820Z",
+    "id": "relationship--7dce49f1-43ae-4cea-b93f-026ead775e30",
+    "modified": "2023-03-11T00:21:08.820Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--ef41235d-be7f-460a-8db0-65e020ec5799",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.820Z",
+    "id": "relationship--3ab92785-7aad-42ab-99f5-efdf5f3ab209",
+    "modified": "2023-03-11T00:21:08.820Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--ef41235d-be7f-460a-8db0-65e020ec5799",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.820Z",
+    "id": "relationship--c8b4a636-924e-4c66-9a97-d28fcfd68feb",
+    "modified": "2023-03-11T00:21:08.820Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--24499f30-0da5-4dcd-86a5-fb4736bca093",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.821Z",
+    "id": "relationship--46314712-a10f-44f4-a6c2-4271b6f2f011",
+    "modified": "2023-03-11T00:21:08.821Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--24499f30-0da5-4dcd-86a5-fb4736bca093",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.821Z",
+    "id": "relationship--0a49d20c-3d63-4780-93f7-ea6e7b41bdbf",
+    "modified": "2023-03-11T00:21:08.821Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--24499f30-0da5-4dcd-86a5-fb4736bca093",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.821Z",
+    "id": "relationship--52569480-c109-4c3e-9351-1e0e22ae2eee",
+    "modified": "2023-03-11T00:21:08.821Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--24499f30-0da5-4dcd-86a5-fb4736bca093",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.821Z",
+    "id": "relationship--488f8779-e626-48c5-bef2-ce2bfddf0e01",
+    "modified": "2023-03-11T00:21:08.821Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--06e8790c-c0b7-4204-ae17-bf251013fbd1",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.821Z",
+    "id": "relationship--66cde078-d3a4-496e-bca7-320d3cc2bd24",
+    "modified": "2023-03-11T00:21:08.821Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--06e8790c-c0b7-4204-ae17-bf251013fbd1",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.821Z",
+    "id": "relationship--9bb7946d-5017-4a5b-8636-313b13d37e4f",
+    "modified": "2023-03-11T00:21:08.821Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--06e8790c-c0b7-4204-ae17-bf251013fbd1",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.821Z",
+    "id": "relationship--65bd101f-ac4e-4414-8bdf-e2bc3e87aa1c",
+    "modified": "2023-03-11T00:21:08.821Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--06e8790c-c0b7-4204-ae17-bf251013fbd1",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.827Z",
+    "id": "relationship--c0e3d6f5-375a-46e1-9bdc-99924a00a762",
+    "modified": "2023-03-11T00:21:08.827Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--67537b76-a3cc-456c-a798-39f1227e8f1d",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.828Z",
+    "id": "relationship--1eed806c-9774-4ecc-a2aa-cbdaedaa1580",
+    "modified": "2023-03-11T00:21:08.828Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--67537b76-a3cc-456c-a798-39f1227e8f1d",
+    "target_ref": "course-of-action--2f316f6c-ae42-44fe-adf8-150989e0f6d3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.828Z",
+    "id": "relationship--bf8af607-34b0-4c64-bed9-e2dcb2bfd2b6",
+    "modified": "2023-03-11T00:21:08.828Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--67537b76-a3cc-456c-a798-39f1227e8f1d",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.828Z",
+    "id": "relationship--1984a527-424a-4aad-8e0c-12c6c9a00e8d",
+    "modified": "2023-03-11T00:21:08.828Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--67537b76-a3cc-456c-a798-39f1227e8f1d",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.828Z",
+    "id": "relationship--f7683c40-aeef-41fb-8b88-37d705cbdc9f",
+    "modified": "2023-03-11T00:21:08.828Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a6f62b22-1d66-49fa-9360-36318e18557d",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.828Z",
+    "id": "relationship--a509a238-ac4e-492e-bdb3-0d4360f15398",
+    "modified": "2023-03-11T00:21:08.828Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a6f62b22-1d66-49fa-9360-36318e18557d",
+    "target_ref": "course-of-action--2f316f6c-ae42-44fe-adf8-150989e0f6d3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.828Z",
+    "id": "relationship--63d237b9-9d4c-487d-94eb-d3b137fadb14",
+    "modified": "2023-03-11T00:21:08.828Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a6f62b22-1d66-49fa-9360-36318e18557d",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.828Z",
+    "id": "relationship--85b748f2-b813-4f06-8664-561645ed89a5",
+    "modified": "2023-03-11T00:21:08.828Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a6f62b22-1d66-49fa-9360-36318e18557d",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.829Z",
+    "id": "relationship--146a153b-265e-43ff-8b5e-84e4bcc122c0",
+    "modified": "2023-03-11T00:21:08.829Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--42fb4e75-f362-45ad-9e03-cc010610e0aa",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.829Z",
+    "id": "relationship--d0b0c778-48b8-4ae8-b7c4-d539d038c102",
+    "modified": "2023-03-11T00:21:08.829Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--42fb4e75-f362-45ad-9e03-cc010610e0aa",
+    "target_ref": "course-of-action--2f316f6c-ae42-44fe-adf8-150989e0f6d3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.829Z",
+    "id": "relationship--8ca60d69-71f5-4ed5-8438-5d63cdcc3c33",
+    "modified": "2023-03-11T00:21:08.829Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--42fb4e75-f362-45ad-9e03-cc010610e0aa",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.829Z",
+    "id": "relationship--7fec0fc0-274a-4372-ae7f-c8a8b5d417b2",
+    "modified": "2023-03-11T00:21:08.829Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--42fb4e75-f362-45ad-9e03-cc010610e0aa",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.829Z",
+    "id": "relationship--479493db-db9f-4823-9956-f717f594ffb9",
+    "modified": "2023-03-11T00:21:08.829Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--aa4f8bfe-5fe7-491d-8e7d-b014a529c55c",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.829Z",
+    "id": "relationship--3f7142ff-d2f7-4975-9ea7-c188723c63ef",
+    "modified": "2023-03-11T00:21:08.829Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9a9d2cc4-102e-40f6-b26c-580090bca6d1",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.829Z",
+    "id": "relationship--a3ff80d1-7425-43a7-ba60-c88bc621eacf",
+    "modified": "2023-03-11T00:21:08.829Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9a9d2cc4-102e-40f6-b26c-580090bca6d1",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.830Z",
+    "id": "relationship--be1ac310-b449-4431-b293-9122af48a3f1",
+    "modified": "2023-03-11T00:21:08.830Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--dfb45bf2-3529-4a61-819a-5ffc6de4533d",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.830Z",
+    "id": "relationship--aceeac21-f2b7-4542-b0d7-12636fef0244",
+    "modified": "2023-03-11T00:21:08.830Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--dfb45bf2-3529-4a61-819a-5ffc6de4533d",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.830Z",
+    "id": "relationship--b0e036cc-7c46-492d-859f-32a58a1c0c41",
+    "modified": "2023-03-11T00:21:08.830Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--2e730f5f-22fe-41f7-b645-d57e1d52cf9b",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.830Z",
+    "id": "relationship--b9e01fd9-2549-49ad-a766-c97fdac65d8f",
+    "modified": "2023-03-11T00:21:08.830Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--09192730-67dd-43c4-b4b7-cfbc09b68ede",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.830Z",
+    "id": "relationship--95e30550-3bb3-4ad3-bc83-73d28d69f7ea",
+    "modified": "2023-03-11T00:21:08.830Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c1be65b7-14f7-451a-9984-4f5344fee9c8",
+    "target_ref": "course-of-action--21da4fd4-27ad-4e9c-b93d-0b9b14d02c96",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.830Z",
+    "id": "relationship--e64042e8-82ed-4e3d-afc7-8a777aca4a8d",
+    "modified": "2023-03-11T00:21:08.830Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c1be65b7-14f7-451a-9984-4f5344fee9c8",
+    "target_ref": "course-of-action--12241367-a8b7-49b4-b86e-2236901ba50c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.830Z",
+    "id": "relationship--c4c2515d-a54c-46d1-9a74-aa27c9dce1b8",
+    "modified": "2023-03-11T00:21:08.830Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c1be65b7-14f7-451a-9984-4f5344fee9c8",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.831Z",
+    "id": "relationship--b4f1cc8f-7c38-4f50-bf99-0fbce549fb6a",
+    "modified": "2023-03-11T00:21:08.831Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4dff4b36-1fb1-4be6-bd85-b377e28715c7",
+    "target_ref": "course-of-action--21da4fd4-27ad-4e9c-b93d-0b9b14d02c96",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.831Z",
+    "id": "relationship--339da4be-4673-4f10-9359-cd340dfade65",
+    "modified": "2023-03-11T00:21:08.831Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4dff4b36-1fb1-4be6-bd85-b377e28715c7",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.831Z",
+    "id": "relationship--a38167a8-b6ba-4961-a8aa-3f15d7dac73f",
+    "modified": "2023-03-11T00:21:08.831Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--da99e38e-4823-497f-a006-3f3511864a87",
+    "target_ref": "course-of-action--23843cff-f7b9-4659-a7b7-713ef347f547",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.831Z",
+    "id": "relationship--69d3cad8-53f5-4a8d-8e35-247fd80bda8a",
+    "modified": "2023-03-11T00:21:08.831Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--da99e38e-4823-497f-a006-3f3511864a87",
+    "target_ref": "course-of-action--47e0e9fe-96ce-4f65-8bb1-8be1feacb5db",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.831Z",
+    "id": "relationship--7d0d8101-306f-4636-b82f-1fed4b8435ea",
+    "modified": "2023-03-11T00:21:08.831Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--da99e38e-4823-497f-a006-3f3511864a87",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.831Z",
+    "id": "relationship--91ad8e62-a40d-4d70-8d01-0823bb37c0a9",
+    "modified": "2023-03-11T00:21:08.831Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--da99e38e-4823-497f-a006-3f3511864a87",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.831Z",
+    "id": "relationship--ba62dfb8-dfac-436d-b20b-61304ff1e04e",
+    "modified": "2023-03-11T00:21:08.831Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--fbfe0dd4-fb4c-4d3b-a8b5-2d804ca952be",
+    "target_ref": "course-of-action--21da4fd4-27ad-4e9c-b93d-0b9b14d02c96",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.832Z",
+    "id": "relationship--8b898a81-99ee-4c03-b9d8-5212d26a15e5",
+    "modified": "2023-03-11T00:21:08.832Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--b2b8401d-82d3-4bb6-b7fc-4aaf397792f3",
+    "target_ref": "course-of-action--a6a47a06-08fc-4ec4-bdc3-20373375ebb9",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.832Z",
+    "id": "relationship--f5ac183a-47da-4e52-bc09-d58fb9d6c9de",
+    "modified": "2023-03-11T00:21:08.832Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--cbbc304a-30d0-4437-851b-7e5751eeb41b",
+    "target_ref": "course-of-action--a6a47a06-08fc-4ec4-bdc3-20373375ebb9",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.832Z",
+    "id": "relationship--1e9be2ae-1c18-4979-9fa8-46fdc4faebb2",
+    "modified": "2023-03-11T00:21:08.832Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--19936115-6321-487d-8389-7a92135457a6",
+    "target_ref": "course-of-action--a6a47a06-08fc-4ec4-bdc3-20373375ebb9",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.832Z",
+    "id": "relationship--12ecc8e1-5993-48d9-9c49-5a0ec95da13c",
+    "modified": "2023-03-11T00:21:08.832Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--1ca11054-408c-4574-892a-252224f03c01",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.832Z",
+    "id": "relationship--d67b7328-03d2-4ebc-9bf8-cd527ca53b90",
+    "modified": "2023-03-11T00:21:08.832Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--25ccc4c6-2833-462a-b958-bb71706d1deb",
+    "target_ref": "course-of-action--d2a24649-9694-4c97-9c62-ce7b270bf6a3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.832Z",
+    "id": "relationship--252381fd-8f19-4235-aed8-560aa4375e98",
+    "modified": "2023-03-11T00:21:08.832Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--203150a8-071b-4c87-8ba6-b8801765d487",
+    "target_ref": "course-of-action--a6a47a06-08fc-4ec4-bdc3-20373375ebb9",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.832Z",
+    "id": "relationship--4ade7915-4d2f-43d4-93de-7f7330267d6d",
+    "modified": "2023-03-11T00:21:08.832Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--74f2d6af-b723-43ff-97ce-f2c550f92022",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.833Z",
+    "id": "relationship--350962e9-72ad-456e-baa0-5accb8dd0c1b",
+    "modified": "2023-03-11T00:21:08.833Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--74f2d6af-b723-43ff-97ce-f2c550f92022",
+    "target_ref": "course-of-action--3efe43d1-6f3f-4fcb-ab39-4a730971f70b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.833Z",
+    "id": "relationship--e68b57a4-1d45-40b3-8990-fee753f88779",
+    "modified": "2023-03-11T00:21:08.833Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a82e0abb-9e02-4c24-bd50-a5d194685991",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.833Z",
+    "id": "relationship--37434dd3-931a-4458-961a-e788cd487b36",
+    "modified": "2023-03-11T00:21:08.833Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a82e0abb-9e02-4c24-bd50-a5d194685991",
+    "target_ref": "course-of-action--3efe43d1-6f3f-4fcb-ab39-4a730971f70b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.833Z",
+    "id": "relationship--9360cf24-3082-4cac-a6b2-c924638cd729",
+    "modified": "2023-03-11T00:21:08.833Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4e6123f3-4e16-4da5-bf3f-4c77049589f0",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.833Z",
+    "id": "relationship--750e299a-0ad7-4c44-900e-229f5af799fd",
+    "modified": "2023-03-11T00:21:08.833Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4e6123f3-4e16-4da5-bf3f-4c77049589f0",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.833Z",
+    "id": "relationship--6804630d-b59b-4b6c-9c25-2310102bf84c",
+    "modified": "2023-03-11T00:21:08.833Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4e6123f3-4e16-4da5-bf3f-4c77049589f0",
+    "target_ref": "course-of-action--feff9142-e8c2-46f4-842b-bd6fb3d41157",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.833Z",
+    "id": "relationship--e1a51596-6a84-4465-be87-c370c75a02d1",
+    "modified": "2023-03-11T00:21:08.833Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4e6123f3-4e16-4da5-bf3f-4c77049589f0",
+    "target_ref": "course-of-action--3efe43d1-6f3f-4fcb-ab39-4a730971f70b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.834Z",
+    "id": "relationship--8d82fef2-29fd-4f6f-9e15-e99804b5bcfa",
+    "modified": "2023-03-11T00:21:08.834Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a2fd3552-6758-4a4d-9f63-ea4d1088903c",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.834Z",
+    "id": "relationship--a3a8f1a9-5f64-4f43-bb2e-9c97c3393eb5",
+    "modified": "2023-03-11T00:21:08.834Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a2fd3552-6758-4a4d-9f63-ea4d1088903c",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.834Z",
+    "id": "relationship--9822c619-911f-4ee0-88a9-85a1ba78093a",
+    "modified": "2023-03-11T00:21:08.834Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a2fd3552-6758-4a4d-9f63-ea4d1088903c",
+    "target_ref": "course-of-action--3efe43d1-6f3f-4fcb-ab39-4a730971f70b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.834Z",
+    "id": "relationship--3303f31e-7043-4cc6-8e04-8c6e3fd13cd3",
+    "modified": "2023-03-11T00:21:08.834Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5aafbd50-0c7e-404d-ad81-ddb395536431",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.834Z",
+    "id": "relationship--ac4d7e26-55c2-4e74-b0b3-62aca596495f",
+    "modified": "2023-03-11T00:21:08.834Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5aafbd50-0c7e-404d-ad81-ddb395536431",
+    "target_ref": "course-of-action--3efe43d1-6f3f-4fcb-ab39-4a730971f70b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.834Z",
+    "id": "relationship--bb133c0a-6be3-48b5-aea4-ca9ccfcc144f",
+    "modified": "2023-03-11T00:21:08.834Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--95564eaa-2ef8-434e-ad4f-1c098ada754d",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.835Z",
+    "id": "relationship--8111d67f-eae6-42f0-94fc-d946ce487cf0",
+    "modified": "2023-03-11T00:21:08.835Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c1bfdf93-d147-4f94-a2e2-c0d9eacb58e6",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.835Z",
+    "id": "relationship--56c030fb-7efb-4476-9618-b643ee7fcc1e",
+    "modified": "2023-03-11T00:21:08.835Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c1bfdf93-d147-4f94-a2e2-c0d9eacb58e6",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.835Z",
+    "id": "relationship--db52b7d6-e0a7-46a7-a114-3e82ce53cd64",
+    "modified": "2023-03-11T00:21:08.835Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c1bfdf93-d147-4f94-a2e2-c0d9eacb58e6",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.835Z",
+    "id": "relationship--74f1f08d-ede6-4e07-a74c-1894ad32db7e",
+    "modified": "2023-03-11T00:21:08.835Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c1bfdf93-d147-4f94-a2e2-c0d9eacb58e6",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.835Z",
+    "id": "relationship--4e24799f-3d5a-4962-9d58-069f36bf94f0",
+    "modified": "2023-03-11T00:21:08.835Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--42c01775-be19-435d-83a1-26a6095b6e60",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.835Z",
+    "id": "relationship--de019607-65a5-40f8-89f8-04b7c2f28383",
+    "modified": "2023-03-11T00:21:08.835Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a3423358-107f-4ec4-8a5a-43a69dddd982",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.835Z",
+    "id": "relationship--56916b00-b4fd-4b99-b0a7-0776c2039143",
+    "modified": "2023-03-11T00:21:08.835Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a3423358-107f-4ec4-8a5a-43a69dddd982",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.836Z",
+    "id": "relationship--c86663a6-5e82-469a-b300-8ad6fc30cc7a",
+    "modified": "2023-03-11T00:21:08.836Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4d9ef0b8-0e66-489d-908a-c8d0b37203ae",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.836Z",
+    "id": "relationship--bd570d13-c240-41a4-ac91-0e2ac212cebb",
+    "modified": "2023-03-11T00:21:08.836Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9a489aee-1758-4be2-a7fa-72b216bd60f8",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.836Z",
+    "id": "relationship--e6359220-0952-419b-8497-cefe8fd28af9",
+    "modified": "2023-03-11T00:21:08.836Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5cbab799-30a3-4e79-b29d-2921313bbbad",
+    "target_ref": "course-of-action--20a2baeb-98c2-4901-bad7-dc62d0a03dea",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.836Z",
+    "id": "relationship--c711925d-e626-4956-b6ad-1a3204e0c756",
+    "modified": "2023-03-11T00:21:08.836Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--5cbab799-30a3-4e79-b29d-2921313bbbad",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.836Z",
+    "id": "relationship--53a2c809-60e7-4b85-a9b6-ad06dcf0d054",
+    "modified": "2023-03-11T00:21:08.836Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--2512707e-9323-404e-9ac6-9454d0d8b64b",
+    "target_ref": "course-of-action--90f39ee1-d5a3-4aaa-9f28-3b42815b0d46",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.836Z",
+    "id": "relationship--bf578066-08dd-482d-9508-24fb6e754f1f",
+    "modified": "2023-03-11T00:21:08.836Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--2512707e-9323-404e-9ac6-9454d0d8b64b",
+    "target_ref": "course-of-action--a6a47a06-08fc-4ec4-bdc3-20373375ebb9",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.836Z",
+    "id": "relationship--9fc79fc9-aa4e-4e6c-93b1-d53e74db45a3",
+    "modified": "2023-03-11T00:21:08.836Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--56f3726c-4437-4456-9679-b2c5be01299a",
+    "target_ref": "course-of-action--12241367-a8b7-49b4-b86e-2236901ba50c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.837Z",
+    "id": "relationship--a7a7d64f-ac52-4562-8eb2-7c673825db9e",
+    "modified": "2023-03-11T00:21:08.837Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--679e7e32-b88a-41b0-940a-ea88a9ec4605",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.838Z",
+    "id": "relationship--343d63a6-635e-4b30-abd2-42107a79472b",
+    "modified": "2023-03-11T00:21:08.838Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--cc858faa-cf01-4fb0-9d80-3d81cc44a274",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.838Z",
+    "id": "relationship--e9096ee1-a207-4d5e-8a51-8ad154c7ac0f",
+    "modified": "2023-03-11T00:21:08.838Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4c1ee11b-390d-4b37-8912-22384072ecce",
+    "target_ref": "course-of-action--a6a47a06-08fc-4ec4-bdc3-20373375ebb9",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.838Z",
+    "id": "relationship--b0d98058-8c8f-492d-a23c-634438fe359b",
+    "modified": "2023-03-11T00:21:08.838Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--4c1ee11b-390d-4b37-8912-22384072ecce",
+    "target_ref": "course-of-action--90f39ee1-d5a3-4aaa-9f28-3b42815b0d46",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.838Z",
+    "id": "relationship--21522073-ea13-4e21-b6d7-92b1bdcce2ca",
+    "modified": "2023-03-11T00:21:08.838Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c5b84351-8959-4e0d-836a-09a886b0db6f",
+    "target_ref": "course-of-action--12241367-a8b7-49b4-b86e-2236901ba50c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.838Z",
+    "id": "relationship--0ca67fd5-fbce-41da-8526-420fba7c43df",
+    "modified": "2023-03-11T00:21:08.838Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a8d04db8-5239-47ff-9e6e-b47d49c8e9c4",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.838Z",
+    "id": "relationship--ae0b8a44-de4c-49a1-84b4-f02093ed4247",
+    "modified": "2023-03-11T00:21:08.838Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--403e1259-1c2c-4153-b0b1-e3fcb6117660",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.838Z",
+    "id": "relationship--39cd41b8-1830-41cd-93a0-ed9e509a11da",
+    "modified": "2023-03-11T00:21:08.838Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--403e1259-1c2c-4153-b0b1-e3fcb6117660",
+    "target_ref": "course-of-action--1dcaeb21-9348-42ea-950a-f842aaf1ae1f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.839Z",
+    "id": "relationship--fde4c1bc-74f7-4427-9107-eb616f346063",
+    "modified": "2023-03-11T00:21:08.839Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--403e1259-1c2c-4153-b0b1-e3fcb6117660",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.839Z",
+    "id": "relationship--5fa447c3-3c33-46c0-b4d3-9330ed2fc4fb",
+    "modified": "2023-03-11T00:21:08.839Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--403e1259-1c2c-4153-b0b1-e3fcb6117660",
+    "target_ref": "course-of-action--d2a24649-9694-4c97-9c62-ce7b270bf6a3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.839Z",
+    "id": "relationship--9a8ae24a-9713-46ee-9f57-b5e23fa1a0c6",
+    "modified": "2023-03-11T00:21:08.839Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--d9883da5-3639-4f3d-8a90-a7ec62626a9d",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.839Z",
+    "id": "relationship--eccc831d-be0c-40ab-bc75-ba08fe11bd7b",
+    "modified": "2023-03-11T00:21:08.839Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--99e50527-f388-4a06-bb62-09eb68f73ce5",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.839Z",
+    "id": "relationship--62c4af58-a71b-409a-a05d-e556c684a8f8",
+    "modified": "2023-03-11T00:21:08.839Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--b90444d6-9a55-4ae1-8141-4a6d315ee4c6",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.839Z",
+    "id": "relationship--5f8016fb-d20b-46cd-b3cb-9fb5876252c6",
+    "modified": "2023-03-11T00:21:08.839Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--b90444d6-9a55-4ae1-8141-4a6d315ee4c6",
+    "target_ref": "course-of-action--90c218c3-fbf8-4830-98a7-e8cfb7eaa485",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.839Z",
+    "id": "relationship--b6a65491-95cd-4047-b778-0dda7cc2ab38",
+    "modified": "2023-03-11T00:21:08.839Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--b758c5d5-0ee4-4982-9820-90cff8090013",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.840Z",
+    "id": "relationship--d2a22ea8-24e5-4532-b5d3-389708ecd827",
+    "modified": "2023-03-11T00:21:08.840Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--3cf43807-5d3e-4453-87bd-4d4efddf3eb8",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.840Z",
+    "id": "relationship--eab46d3e-af31-4d88-83eb-dbb3f72d4bb9",
+    "modified": "2023-03-11T00:21:08.840Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--13b3db16-f257-4497-8445-cc9920290fed",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.840Z",
+    "id": "relationship--ef3d3900-6250-4d87-a590-7dc89d5e1a7e",
+    "modified": "2023-03-11T00:21:08.840Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--3ab4430f-6b03-495c-9f29-ff562968c5a4",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.840Z",
+    "id": "relationship--62677b3a-f631-4065-a060-5147fc67387b",
+    "modified": "2023-03-11T00:21:08.840Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--e006045c-f69c-40fc-830b-a4fa2404eceb",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.840Z",
+    "id": "relationship--575b1927-8422-4b5c-b44c-a4d0216fce04",
+    "modified": "2023-03-11T00:21:08.840Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--d6ec7a29-f751-4ab3-a69b-4a1602f30447",
+    "target_ref": "course-of-action--93e7968a-9074-4eac-8ae9-9f5200ec3317",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.840Z",
+    "id": "relationship--f259f4b5-1a4c-41c5-8c91-ae992bc9e73d",
+    "modified": "2023-03-11T00:21:08.840Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--d6ec7a29-f751-4ab3-a69b-4a1602f30447",
+    "target_ref": "course-of-action--2c2ad92a-d710-41ab-a996-1db143bb4808",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.840Z",
+    "id": "relationship--bc928efc-bde2-475b-9cdd-e857486052c9",
+    "modified": "2023-03-11T00:21:08.840Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9f08ee74-2858-4f2b-ac3a-74c5451f890a",
+    "target_ref": "course-of-action--25dc1ce8-eb55-4333-ae30-a7cb4f5894a1",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.841Z",
+    "id": "relationship--579632f4-5ecd-4c68-a997-d580222c7800",
+    "modified": "2023-03-11T00:21:08.841Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9f08ee74-2858-4f2b-ac3a-74c5451f890a",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.841Z",
+    "id": "relationship--0a401151-1ed5-4517-8118-912e0806d760",
+    "modified": "2023-03-11T00:21:08.841Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9f08ee74-2858-4f2b-ac3a-74c5451f890a",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.841Z",
+    "id": "relationship--5f2f1474-9580-4aed-a5ca-921fd282b452",
+    "modified": "2023-03-11T00:21:08.841Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--9f08ee74-2858-4f2b-ac3a-74c5451f890a",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.841Z",
+    "id": "relationship--2c76aa76-82d4-433d-b55b-903d6fd9c43e",
+    "modified": "2023-03-11T00:21:08.841Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--2d2baaf8-08aa-489c-bb66-63898ef7bfbd",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.841Z",
+    "id": "relationship--7804a060-6466-4534-9d30-b1b964c537fc",
+    "modified": "2023-03-11T00:21:08.841Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--2d2baaf8-08aa-489c-bb66-63898ef7bfbd",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.841Z",
+    "id": "relationship--85786619-4c85-4c9b-a7f8-14de2041f9ae",
+    "modified": "2023-03-11T00:21:08.841Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f10ea6b9-7aa2-4654-a051-021c01477ba6",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.841Z",
+    "id": "relationship--614c8108-8431-472b-a476-8354893c38a0",
+    "modified": "2023-03-11T00:21:08.841Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--f10ea6b9-7aa2-4654-a051-021c01477ba6",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.841Z",
+    "id": "relationship--095f4fdc-c877-4454-8068-54ed4d7c7e95",
+    "modified": "2023-03-11T00:21:08.841Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--99ac9418-da45-4f4f-93f2-dbf0be7f21f4",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.842Z",
+    "id": "relationship--b92d9845-3828-4758-83ad-5fca84c44464",
+    "modified": "2023-03-11T00:21:08.842Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--99ac9418-da45-4f4f-93f2-dbf0be7f21f4",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.842Z",
+    "id": "relationship--1133c9cf-bf2f-4d52-bbd9-e5f8532af2c8",
+    "modified": "2023-03-11T00:21:08.842Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--0f49399e-a242-49d9-b42a-df26b2267155",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.842Z",
+    "id": "relationship--16e464c6-1d53-4250-a3ff-5d2c9409196a",
+    "modified": "2023-03-11T00:21:08.842Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--0f49399e-a242-49d9-b42a-df26b2267155",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.842Z",
+    "id": "relationship--e89d7fd4-e360-479d-b344-33114e502239",
+    "modified": "2023-03-11T00:21:08.842Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a8cc2855-149c-47d3-b827-3b4d9480243c",
+    "target_ref": "course-of-action--86598de0-b347-4928-9eb0-0acbfc21908c",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.842Z",
+    "id": "relationship--4f17c1e4-abe2-45b8-bfe0-83fc711fdeba",
+    "modified": "2023-03-11T00:21:08.842Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a8cc2855-149c-47d3-b827-3b4d9480243c",
+    "target_ref": "course-of-action--b9f0c069-abbe-4a07-a245-2481219a1463",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.842Z",
+    "id": "relationship--b8c09e92-1fb2-4739-aec3-cfb66aed5fc4",
+    "modified": "2023-03-11T00:21:08.842Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c99d8786-d689-4b01-a5cc-fb04052f7e8a",
+    "target_ref": "course-of-action--25dc1ce8-eb55-4333-ae30-a7cb4f5894a1",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.842Z",
+    "id": "relationship--47719f03-d3bb-489a-a3d7-7a8eac3f9722",
+    "modified": "2023-03-11T00:21:08.842Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c99d8786-d689-4b01-a5cc-fb04052f7e8a",
+    "target_ref": "course-of-action--2a4f6c11-a4a7-4cb9-b0ef-6ae1bb3a718a",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.843Z",
+    "id": "relationship--d10f5d97-1a41-4d45-b3c6-7710a79a5b9f",
+    "modified": "2023-03-11T00:21:08.843Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a12746ee-1954-48f6-a875-5da7e5b03822",
+    "target_ref": "course-of-action--9bb9e696-bff8-4ae1-9454-961fc7d91d5f",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.843Z",
+    "id": "relationship--bb960075-186a-45b9-a31a-e241341cdc3b",
+    "modified": "2023-03-11T00:21:08.843Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a12746ee-1954-48f6-a875-5da7e5b03822",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.843Z",
+    "id": "relationship--aa5de5b1-c019-448b-a4c4-903b53808b74",
+    "modified": "2023-03-11T00:21:08.843Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a888f065-1be1-4b3c-b2d7-cad11365a48a",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.843Z",
+    "id": "relationship--65491d35-b0ae-4933-86cd-5e78849c0173",
+    "modified": "2023-03-11T00:21:08.843Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--a888f065-1be1-4b3c-b2d7-cad11365a48a",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.843Z",
+    "id": "relationship--f105a9ee-a2b9-41c6-bf2d-856a988519aa",
+    "modified": "2023-03-11T00:21:08.843Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--d105d151-98fe-4b0b-ab97-eb8bb5d0bad7",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.843Z",
+    "id": "relationship--5b6e03df-5cd8-4968-b81f-13542666f264",
+    "modified": "2023-03-11T00:21:08.843Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--0269bb36-f737-4ca6-9428-9f88af9fa01f",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.843Z",
+    "id": "relationship--39f2e891-d185-4561-8d94-822b6312a65d",
+    "modified": "2023-03-11T00:21:08.843Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--0269bb36-f737-4ca6-9428-9f88af9fa01f",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.844Z",
+    "id": "relationship--107a8a0e-33f5-4687-a777-63648d3ad73e",
+    "modified": "2023-03-11T00:21:08.844Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--8dd058a5-1238-4009-b44b-d0ffe88d7586",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.844Z",
+    "id": "relationship--02329f37-7d49-4b48-8bbd-1acaed873b59",
+    "modified": "2023-03-11T00:21:08.844Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--8dd058a5-1238-4009-b44b-d0ffe88d7586",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.844Z",
+    "id": "relationship--da3b5b25-3b2a-4cb0-bc00-d2b009d6ad7c",
+    "modified": "2023-03-11T00:21:08.844Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--72c7ef67-be3e-4d78-87d9-3b68d464d60b",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.844Z",
+    "id": "relationship--624411de-5125-471a-bb6d-089684ecb7ef",
+    "modified": "2023-03-11T00:21:08.844Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--72c7ef67-be3e-4d78-87d9-3b68d464d60b",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.844Z",
+    "id": "relationship--46e7ce7b-36cc-479b-91e8-0a1fce749419",
+    "modified": "2023-03-11T00:21:08.844Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--72c7ef67-be3e-4d78-87d9-3b68d464d60b",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.844Z",
+    "id": "relationship--7c48ba00-a86f-4dc4-8810-746506cabcfb",
+    "modified": "2023-03-11T00:21:08.844Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--72c7ef67-be3e-4d78-87d9-3b68d464d60b",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.845Z",
+    "id": "relationship--b8771a6a-bcf6-4690-b1cf-0f9fc84ffd42",
+    "modified": "2023-03-11T00:21:08.845Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--72c7ef67-be3e-4d78-87d9-3b68d464d60b",
+    "target_ref": "course-of-action--78bb71be-92b4-46de-acd6-5f998fedf1cc",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.845Z",
+    "id": "relationship--a30137c2-31f0-45fa-abdc-3fd14a4ac433",
+    "modified": "2023-03-11T00:21:08.845Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--e3388c78-2a8d-47c2-8422-c1398b324462",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.845Z",
+    "id": "relationship--88d6ba39-2c9e-482e-bb40-89245b4c9d85",
+    "modified": "2023-03-11T00:21:08.845Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.845Z",
+    "id": "relationship--8155bb6d-c628-49d7-b403-f339335c7a0b",
+    "modified": "2023-03-11T00:21:08.845Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--2f316f6c-ae42-44fe-adf8-150989e0f6d3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.845Z",
+    "id": "relationship--4da467ff-6b8d-4728-9caf-72de525aa327",
+    "modified": "2023-03-11T00:21:08.845Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--20f6a9df-37c4-4e20-9e47-025983b1b39d",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.845Z",
+    "id": "relationship--3c6be848-32a0-4b69-a0d7-0fa0bffa791f",
+    "modified": "2023-03-11T00:21:08.845Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.845Z",
+    "id": "relationship--8fde9fd6-333e-40f0-a840-7f1afc426bcb",
+    "modified": "2023-03-11T00:21:08.845Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.846Z",
+    "id": "relationship--c90f3185-c0a5-430b-b969-92c8bc8fd9b4",
+    "modified": "2023-03-11T00:21:08.846Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.846Z",
+    "id": "relationship--00eea2a6-793c-4956-a654-67f73cea0e22",
+    "modified": "2023-03-11T00:21:08.846Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--b5dbb4c5-b0b1-40b1-80b6-e9e84ab90067",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.846Z",
+    "id": "relationship--d3938d60-0993-4094-aa6b-6602a707d132",
+    "modified": "2023-03-11T00:21:08.846Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "target_ref": "course-of-action--78bb71be-92b4-46de-acd6-5f998fedf1cc",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.846Z",
+    "id": "relationship--09333ad6-fba5-4f3a-bbd2-4e936dbb243b",
+    "modified": "2023-03-11T00:21:08.846Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--004fbbe5-de33-4a13-92bd-7ca282c1f8da",
+    "target_ref": "course-of-action--e3388c78-2a8d-47c2-8422-c1398b324462",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.846Z",
+    "id": "relationship--1f77623b-d330-43e4-81e3-2d33b2f5aebc",
+    "modified": "2023-03-11T00:21:08.846Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--004fbbe5-de33-4a13-92bd-7ca282c1f8da",
+    "target_ref": "course-of-action--15437c6d-b998-4a36-be41-4ace3d54d266",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.846Z",
+    "id": "relationship--9a4f7a7d-daee-4724-8947-0895badd4b98",
+    "modified": "2023-03-11T00:21:08.846Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--004fbbe5-de33-4a13-92bd-7ca282c1f8da",
+    "target_ref": "course-of-action--2f316f6c-ae42-44fe-adf8-150989e0f6d3",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.847Z",
+    "id": "relationship--abd11416-899e-48f0-9c86-dc2c32beb0b4",
+    "modified": "2023-03-11T00:21:08.847Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--004fbbe5-de33-4a13-92bd-7ca282c1f8da",
+    "target_ref": "course-of-action--eb88d97c-32f1-40be-80f0-d61a4b0b4b31",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.847Z",
+    "id": "relationship--d7004736-ad61-491c-9642-a7f6e44fc06f",
+    "modified": "2023-03-11T00:21:08.847Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--004fbbe5-de33-4a13-92bd-7ca282c1f8da",
+    "target_ref": "course-of-action--cc2399fd-3cd3-4319-8d0a-fbd6420cdaf8",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.848Z",
+    "id": "relationship--b619db5c-ba4a-433d-ae64-4a5f689a772e",
+    "modified": "2023-03-11T00:21:08.848Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--004fbbe5-de33-4a13-92bd-7ca282c1f8da",
+    "target_ref": "course-of-action--e5d930e9-775a-40ad-9bdb-b941d8dfe86b",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.848Z",
+    "id": "relationship--c4a793cf-d21d-4752-9c77-e10b36596c20",
+    "modified": "2023-03-11T00:21:08.848Z",
+    "relationship_type": "maps",
+    "source_ref": "course-of-action--004fbbe5-de33-4a13-92bd-7ca282c1f8da",
+    "target_ref": "course-of-action--b5dbb4c5-b0b1-40b1-80b6-e9e84ab90067",
+    "type": "relationship"
+  },
+  {
+    "created": "2023-03-11T00:21:08.848Z",
+    "description": "Establish and maintain an accurate, detailed, and up-to-date inventory of all enterprise assets with the potential to store or process data, to include: end-user devices (including portable and mobile), network devices, non-computing/IoT devices, and servers. Ensure the inventory records the network address (if static), hardware address, machine name, enterprise asset owner, department for each asset, and whether the asset has been approved to connect to the network. For mobile end-user devices, MDM type tools can support this process, where appropriate. This inventory includes assets connected to the infrastructure physically, virtually, remotely, and those within cloud environments. Additionally, it includes assets that are regularly connected to the enterprise’s network infrastructure, even if they are not under control of the enterprise. Review and update the inventory of all enterprise assets bi-annually, or more frequently.",
+    "id": "course-of-action--e1a7e868-8f5f-454c-8814-86dac47add5d",
+    "external_references": [
+      {
+        "external_id": "CSC 1.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.848Z",
+    "name": "Establish and Maintain Detailed Enterprise Asset Inventory",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Enterprise Assets",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Ensure that a process exists to address unauthorized assets on a weekly basis. The enterprise may choose to remove the asset from the network, deny the asset from connecting remotely to the network, or quarantine the asset.",
+    "id": "course-of-action--cbcf1735-9386-41e3-ba50-f0f4566453b2",
+    "external_references": [
+      {
+        "external_id": "CSC 1.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Address Unauthorized Assets",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Enterprise Assets",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Use DHCP logging on all DHCP servers or Internet Protocol (IP) address management tools to update the enterprise’s asset inventory. Review and use logs to update the enterprise’s asset inventory weekly, or more frequently.",
+    "id": "course-of-action--40dfd686-b4d8-47a9-8631-1c23af75e361",
+    "external_references": [
+      {
+        "external_id": "CSC 1.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Enterprise Assets",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Deploy and maintain anti-malware software on all enterprise assets.",
+    "id": "course-of-action--cbbc304a-30d0-4437-851b-7e5751eeb41b",
+    "external_references": [
+      {
+        "external_id": "CSC 10.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Deploy and Maintain Anti-Malware Software",
+    "type": "course-of-action",
+    "x_cis_family": "Malware Defenses",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Configure automatic updates for anti-malware signature files on all enterprise assets.",
+    "id": "course-of-action--19936115-6321-487d-8389-7a92135457a6",
+    "external_references": [
+      {
+        "external_id": "CSC 10.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Configure Automatic Anti-Malware Signature Updates",
+    "type": "course-of-action",
+    "x_cis_family": "Malware Defenses",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Disable autorun and autoplay auto-execute functionality for removable media.",
+    "id": "course-of-action--1ca11054-408c-4574-892a-252224f03c01",
+    "external_references": [
+      {
+        "external_id": "CSC 10.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Disable Autorun and Autoplay for Removable Media",
+    "type": "course-of-action",
+    "x_cis_family": "Malware Defenses",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Enable anti-exploitation features on enterprise assets and software, where possible, such as Microsoft® Data Execution Prevention (DEP), Windows® Defender Exploit Guard (WDEG), or Apple® System Integrity Protection (SIP) and Gatekeeper™.",
+    "id": "course-of-action--25ccc4c6-2833-462a-b958-bb71706d1deb",
+    "external_references": [
+      {
+        "external_id": "CSC 10.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Enable Anti-Exploitation Features",
+    "type": "course-of-action",
+    "x_cis_family": "Malware Defenses",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Use behavior-based anti-malware software.",
+    "id": "course-of-action--203150a8-071b-4c87-8ba6-b8801765d487",
+    "external_references": [
+      {
+        "external_id": "CSC 10.7",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Use Behavior-Based Anti-Malware Software",
+    "type": "course-of-action",
+    "x_cis_family": "Malware Defenses",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Establish and maintain a data recovery process. In the process, address the scope of data recovery activities, recovery prioritization, and the security of backup data. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard. ",
+    "id": "course-of-action--74f2d6af-b723-43ff-97ce-f2c550f92022",
+    "external_references": [
+      {
+        "external_id": "CSC 11.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Establish and Maintain a Data Recovery Process ",
+    "type": "course-of-action",
+    "x_cis_family": "Data Recovery",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Perform automated backups of in-scope enterprise assets. Run backups weekly, or more frequently, based on the sensitivity of the data.",
+    "id": "course-of-action--a82e0abb-9e02-4c24-bd50-a5d194685991",
+    "external_references": [
+      {
+        "external_id": "CSC 11.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Perform Automated Backups ",
+    "type": "course-of-action",
+    "x_cis_family": "Data Recovery",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Protect recovery data with equivalent controls to the original data. Reference encryption or data separation, based on requirements.",
+    "id": "course-of-action--4e6123f3-4e16-4da5-bf3f-4c77049589f0",
+    "external_references": [
+      {
+        "external_id": "CSC 11.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Protect Recovery Data",
+    "type": "course-of-action",
+    "x_cis_family": "Data Recovery",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Establish and maintain an isolated instance of recovery data. Example implementations include, version controlling backup destinations through offline, cloud, or off-site systems or services.",
+    "id": "course-of-action--a2fd3552-6758-4a4d-9f63-ea4d1088903c",
+    "external_references": [
+      {
+        "external_id": "CSC 11.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Establish and Maintain an Isolated Instance of Recovery Data ",
+    "type": "course-of-action",
+    "x_cis_family": "Data Recovery",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Test backup recovery quarterly, or more frequently, for a sampling of in-scope enterprise assets.",
+    "id": "course-of-action--5aafbd50-0c7e-404d-ad81-ddb395536431",
+    "external_references": [
+      {
+        "external_id": "CSC 11.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Test Data Recovery",
+    "type": "course-of-action",
+    "x_cis_family": "Data Recovery",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Ensure network infrastructure is kept up-to-date. Example implementations include running the latest stable release of software and/or using currently supported network-as-a-service (NaaS) offerings. Review software versions monthly, or more frequently, to verify software support.",
+    "id": "course-of-action--95564eaa-2ef8-434e-ad4f-1c098ada754d",
+    "external_references": [
+      {
+        "external_id": "CSC 12.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Ensure Network Infrastructure is Up-to-Date",
+    "type": "course-of-action",
+    "x_cis_family": "Network Infrastructure Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Establish and maintain a secure network architecture. A secure network architecture must address segmentation, least privilege, and availability, at a minimum.",
+    "id": "course-of-action--c1bfdf93-d147-4f94-a2e2-c0d9eacb58e6",
+    "external_references": [
+      {
+        "external_id": "CSC 12.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Establish and Maintain a Secure Network Architecture",
+    "type": "course-of-action",
+    "x_cis_family": "Network Infrastructure Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.849Z",
+    "description": "Securely manage network infrastructure. Example implementations include version-controlled-infrastructure-as-code, and the use of secure network protocols, such as SSH and HTTPS. ",
+    "id": "course-of-action--42c01775-be19-435d-83a1-26a6095b6e60",
+    "external_references": [
+      {
+        "external_id": "CSC 12.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.849Z",
+    "name": "Securely Manage Network Infrastructure",
+    "type": "course-of-action",
+    "x_cis_family": "Network Infrastructure Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Centralize network AAA.",
+    "id": "course-of-action--a3423358-107f-4ec4-8a5a-43a69dddd982",
+    "external_references": [
+      {
+        "external_id": "CSC 12.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Centralize Network Authentication, Authorization, and Auditing (AAA)",
+    "type": "course-of-action",
+    "x_cis_family": "Network Infrastructure Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (WPA2) Enterprise or greater).",
+    "id": "course-of-action--4d9ef0b8-0e66-489d-908a-c8d0b37203ae",
+    "external_references": [
+      {
+        "external_id": "CSC 12.6",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Use of Secure Network Management and Communication Protocols ",
+    "type": "course-of-action",
+    "x_cis_family": "Network Infrastructure Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Require users to authenticate to enterprise-managed VPN and authentication services prior to accessing enterprise resources on end-user devices.",
+    "id": "course-of-action--9a489aee-1758-4be2-a7fa-72b216bd60f8",
+    "external_references": [
+      {
+        "external_id": "CSC 12.7",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure",
+    "type": "course-of-action",
+    "x_cis_family": "Network Infrastructure Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Establish and maintain dedicated computing resources, either physically or logically separated, for all administrative tasks or tasks requiring administrative access. The computing resources should be segmented from the enterprise's primary network and not be allowed internet access.",
+    "id": "course-of-action--5cbab799-30a3-4e79-b29d-2921313bbbad",
+    "external_references": [
+      {
+        "external_id": "CSC 12.8",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Establish and Maintain Dedicated Computing Resources for All Administrative Work",
+    "type": "course-of-action",
+    "x_cis_family": "Network Infrastructure Management",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Perform application layer filtering. Example implementations include a filtering proxy, application layer firewall, or gateway.",
+    "id": "course-of-action--403e1259-1c2c-4153-b0b1-e3fcb6117660",
+    "external_references": [
+      {
+        "external_id": "CSC 13.10",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Perform Application Layer Filtering",
+    "type": "course-of-action",
+    "x_cis_family": "Network Monitoring and Defense",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Deploy a host-based intrusion detection solution on enterprise assets, where appropriate and/or supported.",
+    "id": "course-of-action--2512707e-9323-404e-9ac6-9454d0d8b64b",
+    "external_references": [
+      {
+        "external_id": "CSC 13.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Deploy a Host-Based Intrusion Detection Solution",
+    "type": "course-of-action",
+    "x_cis_family": "Network Monitoring and Defense",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Deploy a network intrusion detection solution on enterprise assets, where appropriate. Example implementations include the use of a Network Intrusion Detection System (NIDS) or equivalent cloud service provider (CSP) service.",
+    "id": "course-of-action--56f3726c-4437-4456-9679-b2c5be01299a",
+    "external_references": [
+      {
+        "external_id": "CSC 13.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Deploy a Network Intrusion Detection Solution",
+    "type": "course-of-action",
+    "x_cis_family": "Network Monitoring and Defense",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Perform traffic filtering between network segments, where appropriate.",
+    "id": "course-of-action--679e7e32-b88a-41b0-940a-ea88a9ec4605",
+    "external_references": [
+      {
+        "external_id": "CSC 13.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Perform Traffic Filtering Between Network Segments",
+    "type": "course-of-action",
+    "x_cis_family": "Network Monitoring and Defense",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Manage access control for assets remotely connecting to enterprise resources. Determine amount of access to enterprise resources based on: up-to-date anti-malware software installed, configuration compliance with the enterprise’s secure configuration process, and ensuring the operating system and applications are up-to-date.",
+    "id": "course-of-action--cc858faa-cf01-4fb0-9d80-3d81cc44a274",
+    "external_references": [
+      {
+        "external_id": "CSC 13.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Manage Access Control for Remote Assets",
+    "type": "course-of-action",
+    "x_cis_family": "Network Monitoring and Defense",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Deploy a host-based intrusion prevention solution on enterprise assets, where appropriate and/or supported. Example implementations include use of an Endpoint Detection and Response (EDR) client or host-based IPS agent.",
+    "id": "course-of-action--4c1ee11b-390d-4b37-8912-22384072ecce",
+    "external_references": [
+      {
+        "external_id": "CSC 13.7",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Deploy a Host-Based Intrusion Prevention Solution",
+    "type": "course-of-action",
+    "x_cis_family": "Network Monitoring and Defense",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Deploy a network intrusion prevention solution, where appropriate. Example implementations include the use of a Network Intrusion Prevention System (NIPS) or equivalent CSP service.",
+    "id": "course-of-action--c5b84351-8959-4e0d-836a-09a886b0db6f",
+    "external_references": [
+      {
+        "external_id": "CSC 13.8",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Deploy a Network Intrusion Prevention Solution",
+    "type": "course-of-action",
+    "x_cis_family": "Network Monitoring and Defense",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Deploy port-level access control. Port-level access control utilizes 802.1x, or similar network access control protocols, such as certificates, and may incorporate user and/or device authentication.",
+    "id": "course-of-action--a8d04db8-5239-47ff-9e6e-b47d49c8e9c4",
+    "external_references": [
+      {
+        "external_id": "CSC 13.9",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Deploy Port-Level Access Control",
+    "type": "course-of-action",
+    "x_cis_family": "Network Monitoring and Defense",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Establish and maintain a security awareness program. The purpose of a security awareness program is to educate the enterprise’s workforce on how to interact with enterprise assets and data in a secure manner. Conduct training at hire and, at a minimum, annually. Review and update content annually, or when significant enterprise changes occur that could impact this Safeguard.",
+    "id": "course-of-action--d9883da5-3639-4f3d-8a90-a7ec62626a9d",
+    "external_references": [
+      {
+        "external_id": "CSC 14.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Establish and Maintain a Security Awareness Program",
+    "type": "course-of-action",
+    "x_cis_family": "Security Awareness and Skills Training",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Train workforce members to recognize social engineering attacks, such as phishing, pre-texting, and tailgating. ",
+    "id": "course-of-action--99e50527-f388-4a06-bb62-09eb68f73ce5",
+    "external_references": [
+      {
+        "external_id": "CSC 14.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Train Workforce Members to Recognize Social Engineering Attacks",
+    "type": "course-of-action",
+    "x_cis_family": "Security Awareness and Skills Training",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Train workforce members on authentication best practices. Example topics include MFA, password composition, and credential management.",
+    "id": "course-of-action--b90444d6-9a55-4ae1-8141-4a6d315ee4c6",
+    "external_references": [
+      {
+        "external_id": "CSC 14.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Train Workforce Members on Authentication Best Practices",
+    "type": "course-of-action",
+    "x_cis_family": "Security Awareness and Skills Training",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Train workforce members on how to identify and properly store, transfer, archive, and destroy sensitive data. This also includes training workforce members on clear screen and desk best practices, such as locking their screen when they step away from their enterprise asset, erasing physical and virtual whiteboards at the end of meetings, and storing data and assets securely.",
+    "id": "course-of-action--b758c5d5-0ee4-4982-9820-90cff8090013",
+    "external_references": [
+      {
+        "external_id": "CSC 14.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Train Workforce on Data Handling Best Practices",
+    "type": "course-of-action",
+    "x_cis_family": "Security Awareness and Skills Training",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Train workforce members to be aware of causes for unintentional data exposure. Example topics include mis-delivery of sensitive data, losing a portable end-user device, or publishing data to unintended audiences.",
+    "id": "course-of-action--3cf43807-5d3e-4453-87bd-4d4efddf3eb8",
+    "external_references": [
+      {
+        "external_id": "CSC 14.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Train Workforce Members on Causes of Unintentional Data Exposure",
+    "type": "course-of-action",
+    "x_cis_family": "Security Awareness and Skills Training",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Train workforce members to be able to recognize a potential incident and be able to report such an incident. ",
+    "id": "course-of-action--13b3db16-f257-4497-8445-cc9920290fed",
+    "external_references": [
+      {
+        "external_id": "CSC 14.6",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Train Workforce Members on Recognizing and Reporting Security Incidents",
+    "type": "course-of-action",
+    "x_cis_family": "Security Awareness and Skills Training",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Train workforce members on the dangers of connecting to, and transmitting data over, insecure networks for enterprise activities. If the enterprise has remote workers, training must include guidance to ensure that all users securely configure their home network infrastructure.",
+    "id": "course-of-action--3ab4430f-6b03-495c-9f29-ff562968c5a4",
+    "external_references": [
+      {
+        "external_id": "CSC 14.8",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Train Workforce on the Dangers of Connecting to and Transmitting Enterprise Data Over Insecure Networks",
+    "type": "course-of-action",
+    "x_cis_family": "Security Awareness and Skills Training",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Conduct role-specific security awareness and skills training. Example implementations include secure system administration courses for IT professionals, (OWASP® Top 10 vulnerability awareness and prevention training for web application developers, and advanced social engineering awareness training for high-profile roles.",
+    "id": "course-of-action--e006045c-f69c-40fc-830b-a4fa2404eceb",
+    "external_references": [
+      {
+        "external_id": "CSC 14.9",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Conduct Role-Specific Security Awareness and Skills Training",
+    "type": "course-of-action",
+    "x_cis_family": "Security Awareness and Skills Training",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Securely decommission service providers. Example considerations include user and service account deactivation, termination of data flows, and secure disposal of enterprise data within service provider systems.",
+    "id": "course-of-action--d6ec7a29-f751-4ab3-a69b-4a1602f30447",
+    "external_references": [
+      {
+        "external_id": "CSC 15.7",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Securely Decommission Service Providers",
+    "type": "course-of-action",
+    "x_cis_family": "Service Provider Management",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Establish and maintain a secure application development process. In the process, address such items as: secure application design standards, secure coding practices, developer training, vulnerability management, security of third-party code, and application security testing procedures. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.",
+    "id": "course-of-action--9f08ee74-2858-4f2b-ac3a-74c5451f890a",
+    "external_references": [
+      {
+        "external_id": "CSC 16.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Establish and Maintain a Secure Application Development Process",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Apply secure design principles in application architectures. Secure design principles include the concept of least privilege and enforcing mediation to validate every operation that the user makes, promoting the concept of -never trust user input-. Examples include ensuring that explicit error checking is performed and documented for all input, including for size, data type, and acceptable ranges or formats. Secure design also means minimizing the application infrastructure attack surface, such as turning off unprotected ports and services, removing unnecessary programs and files, and renaming or removing default accounts.",
+    "id": "course-of-action--a12746ee-1954-48f6-a875-5da7e5b03822",
+    "external_references": [
+      {
+        "external_id": "CSC 16.10",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Apply Secure Design Principles in Application Architectures",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Leverage vetted modules or services for application security components, such as identity management, encryption, and auditing and logging. Using platform features in critical security functions will reduce developers’ workload and minimize the likelihood of design or implementation errors. Modern operating systems provide effective mechanisms for identification, authentication, and authorization and make those mechanisms available to applications. Use only standardized, currently accepted, and extensively reviewed encryption algorithms. Operating systems also provide mechanisms to create and maintain secure audit logs.",
+    "id": "course-of-action--a888f065-1be1-4b3c-b2d7-cad11365a48a",
+    "external_references": [
+      {
+        "external_id": "CSC 16.11",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Leverage Vetted Modules or Services for Application Security Components",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Apply static and dynamic analysis tools within the application life cycle to verify that secure coding practices are being followed.",
+    "id": "course-of-action--d105d151-98fe-4b0b-ab97-eb8bb5d0bad7",
+    "external_references": [
+      {
+        "external_id": "CSC 16.12",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Implement Code-Level Security Checks",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Conduct application penetration testing. For critical applications, authenticated penetration testing is better suited to finding business logic vulnerabilities than code scanning and automated security testing. Penetration testing relies on the skill of the tester to manually manipulate an application as an authenticated and unauthenticated user. ",
+    "id": "course-of-action--0269bb36-f737-4ca6-9428-9f88af9fa01f",
+    "external_references": [
+      {
+        "external_id": "CSC 16.13",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Conduct Application Penetration Testing",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Establish and maintain a process to accept and address reports of software vulnerabilities, including providing a means for external entities to report. The process is to include such items as: a vulnerability handling policy that identifies reporting process, responsible party for handling vulnerability reports, and a process for intake, assignment, remediation, and remediation testing. As part of the process, use a vulnerability tracking system that includes severity ratings, and metrics for measuring timing for identification, analysis, and remediation of vulnerabilities. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.Third-party application developers need to consider this an externally-facing policy that helps to set expectations for outside stakeholders.",
+    "id": "course-of-action--2d2baaf8-08aa-489c-bb66-63898ef7bfbd",
+    "external_references": [
+      {
+        "external_id": "CSC 16.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Establish and Maintain a Process to Accept and Address Software Vulnerabilities",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Perform root cause analysis on security vulnerabilities. When reviewing vulnerabilities, root cause analysis is the task of evaluating underlying issues that create vulnerabilities in code, and allows development teams to move beyond just fixing individual vulnerabilities as they arise.",
+    "id": "course-of-action--f10ea6b9-7aa2-4654-a051-021c01477ba6",
+    "external_references": [
+      {
+        "external_id": "CSC 16.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Perform Root Cause Analysis on Security Vulnerabilities",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Establish and manage an updated inventory of third-party components used in development, often referred to as a “bill of materials,” as well as components slated for future use. This inventory is to include any risks that each third-party component could pose. Evaluate the list at least monthly to identify any changes or updates to these components, and validate that the component is still supported.",
+    "id": "course-of-action--99ac9418-da45-4f4f-93f2-dbf0be7f21f4",
+    "external_references": [
+      {
+        "external_id": "CSC 16.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Establish and Manage an Inventory of Third-Party Software Components",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Use up-to-date and trusted third-party software components. When possible, choose established and proven frameworks and libraries that provide adequate security. Acquire these components from trusted sources or evaluate the software for vulnerabilities before use.",
+    "id": "course-of-action--0f49399e-a242-49d9-b42a-df26b2267155",
+    "external_references": [
+      {
+        "external_id": "CSC 16.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Use Up-to-Date and Trusted Third-Party Software Components",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.850Z",
+    "description": "Maintain separate environments for production and non-production systems.",
+    "id": "course-of-action--a8cc2855-149c-47d3-b827-3b4d9480243c",
+    "external_references": [
+      {
+        "external_id": "CSC 16.8",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.850Z",
+    "name": "Separate Production and Non-Production Systems",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Ensure that all software development personnel receive training in writing secure code for their specific development environment and responsibilities. Training can include general security principles and application security standard practices. Conduct training at least annually and design in a way to promote security within the development team, and build a culture of security among the developers.",
+    "id": "course-of-action--c99d8786-d689-4b01-a5cc-fb04052f7e8a",
+    "external_references": [
+      {
+        "external_id": "CSC 16.9",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Train Developers in Application Security Concepts and Secure Coding",
+    "type": "course-of-action",
+    "x_cis_family": "Application Software Security",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and maintain a penetration testing program appropriate to the size, complexity, and maturity of the enterprise. Penetration testing program characteristics include scope, such as network, web application, Application Programming Interface (API), hosted services, and physical premise controls, frequency, limitations, such as acceptable hours, and excluded attack types, point of contact information, remediation, such as how findings will be routed internally, and retrospective requirements.",
+    "id": "course-of-action--8dd058a5-1238-4009-b44b-d0ffe88d7586",
+    "external_references": [
+      {
+        "external_id": "CSC 18.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish and Maintain a Penetration Testing Program",
+    "type": "course-of-action",
+    "x_cis_family": "Penetration Testing",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Perform periodic external penetration tests based on program requirements, no less than annually. External penetration testing must include enterprise and environmental reconnaissance to detect exploitable information. Penetration testing requires specialized skills and experience and must be conducted through a qualified party. The testing may be clear box or opaque box.",
+    "id": "course-of-action--72c7ef67-be3e-4d78-87d9-3b68d464d60b",
+    "external_references": [
+      {
+        "external_id": "CSC 18.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Perform Periodic External Penetration Tests",
+    "type": "course-of-action",
+    "x_cis_family": "Penetration Testing",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Remediate penetration test findings based on the enterprise’s policy for remediation scope and prioritization.",
+    "id": "course-of-action--c2ef1658-07d5-4afe-adba-33bc7f362ee2",
+    "external_references": [
+      {
+        "external_id": "CSC 18.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Remediate Penetration Test Findings",
+    "type": "course-of-action",
+    "x_cis_family": "Penetration Testing",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Perform periodic internal penetration tests based on program requirements, no less than annually. The testing may be clear box or opaque box.",
+    "id": "course-of-action--004fbbe5-de33-4a13-92bd-7ca282c1f8da",
+    "external_references": [
+      {
+        "external_id": "CSC 18.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Perform Periodic Internal Penetration Tests",
+    "type": "course-of-action",
+    "x_cis_family": "Penetration Testing",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and maintain a detailed inventory of all licensed software installed on enterprise assets. The software inventory must document the title, publisher, initial install/use date, and business purpose for each entry, where appropriate, include the Uniform Resource Locator (URL), app store(s), version(s), deployment mechanism, and decommission date. Review and update the software inventory bi-annually, or more frequently.",
+    "id": "course-of-action--299c0b3c-4c62-4697-a9ca-5a0bcbd5d8e6",
+    "external_references": [
+      {
+        "external_id": "CSC 2.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish and Maintain a Software Inventory",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Software Assets",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Ensure that only currently supported software is designated as authorized in the software inventory for enterprise assets. If software is unsupported, yet necessary for the fulfillment of the enterprise’s mission, document an exception detailing mitigating controls and residual risk acceptance. For any unsupported software without an exception documentation, designate as unauthorized. Review the software list to verify software support at least monthly, or more frequently.",
+    "id": "course-of-action--d69b9b0c-921b-487b-978c-0706c6b058f4",
+    "external_references": [
+      {
+        "external_id": "CSC 2.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Ensure Authorized Software is Currently Supported ",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Software Assets",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Ensure that unauthorized software is either removed from use on enterprise assets or receives a documented exception. Review monthly, or more frequently.",
+    "id": "course-of-action--52e18fcd-ce0f-42a5-852c-25d8d5e661a5",
+    "external_references": [
+      {
+        "external_id": "CSC 2.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Address Unauthorized Software",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Software Assets",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Utilize software inventory tools, when possible, throughout the enterprise to automate the discovery and documentation of installed software. ",
+    "id": "course-of-action--9acbcf56-a48a-4d82-994a-882f06475d13",
+    "external_references": [
+      {
+        "external_id": "CSC 2.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Utilize Automated Software Inventory Tools",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Software Assets",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Use technical controls, such as application allowlisting, to ensure that only authorized software can execute or be accessed. Reassess bi-annually, or more frequently.",
+    "id": "course-of-action--6374fb60-1be8-4f99-b0cf-0912db888077",
+    "external_references": [
+      {
+        "external_id": "CSC 2.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Allowlist Authorized Software",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Software Assets",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Use technical controls to ensure that only authorized software libraries, such as specific .dll, .ocx, .so, etc., files, are allowed to load into a system process. Block unauthorized libraries from loading into a system process. Reassess bi-annually, or more frequently.",
+    "id": "course-of-action--9e6c51f3-4e02-4335-8247-506aca6d236b",
+    "external_references": [
+      {
+        "external_id": "CSC 2.6",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Allowlist Authorized Libraries",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Software Assets",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Use technical controls, such as digital signatures and version control, to ensure that only authorized scripts, such as specific .ps1, .py, etc., files, are allowed to execute. Block unauthorized scripts from executing. Reassess bi-annually, or more frequently.",
+    "id": "course-of-action--20c49506-c0e9-49ca-8dfd-9ef4c55c3cbd",
+    "external_references": [
+      {
+        "external_id": "CSC 2.7",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Allowlist Authorized Scripts",
+    "type": "course-of-action",
+    "x_cis_family": "Inventory and Control of Software Assets",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and maintain a data management process. In the process, address data sensitivity, data owner, handling of data, data retention limits, and disposal requirements, based on sensitivity and retention standards for the enterprise. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.",
+    "id": "course-of-action--9d8d0b02-8c4c-4f0d-b11f-88aa8534f31d",
+    "external_references": [
+      {
+        "external_id": "CSC 3.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish and Maintain a Data Management Process",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Encrypt sensitive data in transit. Example implementations can include: Transport Layer Security (TLS) and Open Secure Shell (OpenSSH).",
+    "id": "course-of-action--ebc092ef-b5ae-4dd3-90b5-ae896a9996da",
+    "external_references": [
+      {
+        "external_id": "CSC 3.10",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Encrypt Sensitive Data in Transit",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Encrypt sensitive data at rest on servers, applications, and databases containing sensitive data. Storage-layer encryption, also known as server-side encryption, meets the minimum requirement of this Safeguard. Additional encryption methods may include application-layer encryption, also known as client-side encryption, where access to the data storage device(s) does not permit access to the plain-text data.",
+    "id": "course-of-action--ae679eb2-866d-43aa-aff2-e7487cb0ce7d",
+    "external_references": [
+      {
+        "external_id": "CSC 3.11",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Encrypt Sensitive Data At Rest",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Segment data processing and storage based on the sensitivity of the data. Do not process sensitive data on enterprise assets intended for lower sensitivity data.",
+    "id": "course-of-action--f9b7443e-03e9-4e7a-b60b-d281475ea31f",
+    "external_references": [
+      {
+        "external_id": "CSC 3.12",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Segment Data Processing and Storage Based on Sensitivity",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Implement an automated tool, such as a host-based Data Loss Prevention (DLP) tool to identify all sensitive data stored, processed, or transmitted through enterprise assets, including those located onsite or at a remote service provider, and update the enterprise's sensitive data inventory.",
+    "id": "course-of-action--ddf33412-e162-4ea2-af4a-0b227af4238c",
+    "external_references": [
+      {
+        "external_id": "CSC 3.13",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Deploy a Data Loss Prevention Solution",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and maintain a data inventory, based on the enterprise’s data management process. Inventory sensitive data, at a minimum. Review and update inventory annually, at a minimum, with a priority on sensitive data.",
+    "id": "course-of-action--6b5e2f02-5c09-4e53-adec-04679a0e6ced",
+    "external_references": [
+      {
+        "external_id": "CSC 3.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish and Maintain a Data Inventory",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Configure data access control lists based on a user’s need to know. Apply data access control lists, also known as access permissions, to local and remote file systems, databases, and applications.",
+    "id": "course-of-action--0a2365d7-b80c-4dbb-a277-5a08d1f74d99",
+    "external_references": [
+      {
+        "external_id": "CSC 3.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Configure Data Access Control Lists",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Retain data according to the enterprise’s data management process. Data retention must include both minimum and maximum timelines.",
+    "id": "course-of-action--dfbfc051-6a59-4484-bedb-ce538c268b3f",
+    "external_references": [
+      {
+        "external_id": "CSC 3.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Enforce Data Retention",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Encrypt data on end-user devices containing sensitive data. Example implementations can include: Windows BitLocker®, Apple FileVault®, Linux® dm-crypt.",
+    "id": "course-of-action--9d4ec083-f971-4beb-bebb-ce96f5095e56",
+    "external_references": [
+      {
+        "external_id": "CSC 3.6",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Encrypt Data on End-User Devices",
+    "type": "course-of-action",
+    "x_cis_family": "Data Protection",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and maintain a secure configuration process for enterprise assets (end-user devices, including portable and mobile, non-computing/IoT devices, and servers) and software (operating systems and applications). Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.",
+    "id": "course-of-action--4bec9e9f-d68e-45c4-82c1-3d2ad1be4512",
+    "external_references": [
+      {
+        "external_id": "CSC 4.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish and Maintain a Secure Configuration Process",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Enforce automatic device lockout following a predetermined threshold of local failed authentication attempts on portable end-user devices, where supported. For laptops, do not allow more than 20 failed authentication attempts, for tablets and smartphones, no more than 10 failed authentication attempts. Example implementations include Microsoft® InTune Device Lock and Apple® Configuration Profile maxFailedAttempts.",
+    "id": "course-of-action--ba176560-8189-47f7-9db2-584259d6cb48",
+    "external_references": [
+      {
+        "external_id": "CSC 4.10",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Enforce Automatic Device Lockout on Portable End-User Devices",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Remotely wipe enterprise data from enterprise-owned portable end-user devices when deemed appropriate such as lost or stolen devices, or when an individual no longer supports the enterprise.",
+    "id": "course-of-action--8fc7599c-5c27-45dc-92a6-3fcede2f450f",
+    "external_references": [
+      {
+        "external_id": "CSC 4.11",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Enforce Remote Wipe Capability on Portable End-User Devices",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and maintain a secure configuration process for network devices. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.",
+    "id": "course-of-action--82e41a34-a068-4362-a3ae-ea82baf7e6e1",
+    "external_references": [
+      {
+        "external_id": "CSC 4.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish and Maintain a Secure Configuration Process for Network Infrastructure",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Configure automatic session locking on enterprise assets after a defined period of inactivity. For general purpose operating systems, the period must not exceed 15 minutes. For mobile end-user devices, the period must not exceed 2 minutes.",
+    "id": "course-of-action--a88078d5-3be0-4adf-9c55-2f94ce5f1a6c",
+    "external_references": [
+      {
+        "external_id": "CSC 4.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Configure Automatic Session Locking on Enterprise Assets",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Implement and manage a firewall on servers, where supported. Example implementations include a virtual firewall, operating system firewall, or a third-party firewall agent.",
+    "id": "course-of-action--81983ff0-ead7-429a-9348-850bc88cdcae",
+    "external_references": [
+      {
+        "external_id": "CSC 4.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Implement and Manage a Firewall on Servers",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Implement and manage a host-based firewall or port-filtering tool on end-user devices, with a default-deny rule that drops all traffic except those services and ports that are explicitly allowed.",
+    "id": "course-of-action--356e49df-c157-4c77-811b-e124405592cc",
+    "external_references": [
+      {
+        "external_id": "CSC 4.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Implement and Manage a Firewall on End-User Devices",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Securely manage enterprise assets and software. Example implementations include managing configuration through version-controlled-infrastructure-as-code and accessing administrative interfaces over secure network protocols, such as Secure Shell (SSH) and Hypertext Transfer Protocol Secure (HTTPS). Do not use insecure management protocols, such as Telnet (Teletype Network) and HTTP, unless operationally essential.",
+    "id": "course-of-action--aae7109b-c962-4e9f-ac66-8140fd2a7fb4",
+    "external_references": [
+      {
+        "external_id": "CSC 4.6",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Securely Manage Enterprise Assets and Software",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Manage default accounts on enterprise assets and software, such as root, administrator, and other pre-configured vendor accounts. Example implementations can include: disabling default accounts or making them unusable.",
+    "id": "course-of-action--b1a00fdf-8100-4045-aea4-9491e44d470c",
+    "external_references": [
+      {
+        "external_id": "CSC 4.7",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Manage Default Accounts on Enterprise Assets and Software",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Uninstall or disable unnecessary services on enterprise assets and software, such as an unused file sharing service, web application module, or service function.",
+    "id": "course-of-action--95928389-5642-435c-84d6-077bb53f0ffb",
+    "external_references": [
+      {
+        "external_id": "CSC 4.8",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Uninstall or Disable Unnecessary Services on Enterprise Assets and Software",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Configure trusted DNS servers on enterprise assets. Example implementations include: configuring assets to use enterprise-controlled DNS servers and/or reputable externally accessible DNS servers.",
+    "id": "course-of-action--6615035a-d18d-4b0b-b437-8628688cc9f8",
+    "external_references": [
+      {
+        "external_id": "CSC 4.9",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Configure Trusted DNS Servers on Enterprise Assets",
+    "type": "course-of-action",
+    "x_cis_family": "Secure Configuration of Enterprise Assets and Software",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and maintain an inventory of all accounts managed in the enterprise. The inventory must include both user and administrator accounts. The inventory, at a minimum, should contain the person’s name, username, start/stop dates, and department. Validate that all active accounts are authorized, on a recurring schedule at a minimum quarterly, or more frequently.",
+    "id": "course-of-action--027de100-b9bf-452b-99e7-7955b2899934",
+    "external_references": [
+      {
+        "external_id": "CSC 5.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish and Maintain an Inventory of Accounts",
+    "type": "course-of-action",
+    "x_cis_family": "Account Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Use unique passwords for all enterprise assets. Best practice implementation includes, at a minimum, an 8-character password for accounts using MFA and a 14-character password for accounts not using MFA. ",
+    "id": "course-of-action--04ce3f01-86b3-4e14-9f66-1c5680a6a4fe",
+    "external_references": [
+      {
+        "external_id": "CSC 5.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Use Unique Passwords",
+    "type": "course-of-action",
+    "x_cis_family": "Account Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Delete or disable any dormant accounts after a period of 45 days of inactivity, where supported.",
+    "id": "course-of-action--964c0fac-f68f-4774-8b7e-95c5aad61187",
+    "external_references": [
+      {
+        "external_id": "CSC 5.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Disable Dormant Accounts",
+    "type": "course-of-action",
+    "x_cis_family": "Account Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Restrict administrator privileges to dedicated administrator accounts on enterprise assets. Conduct general computing activities, such as internet browsing, email, and productivity suite use, from the user’s primary, non-privileged account.",
+    "id": "course-of-action--5b4fc7a8-2f62-445a-a15f-d185394ddf8a",
+    "external_references": [
+      {
+        "external_id": "CSC 5.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Restrict Administrator Privileges to Dedicated Administrator Accounts",
+    "type": "course-of-action",
+    "x_cis_family": "Account Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and maintain an inventory of service accounts. The inventory, at a minimum, must contain department owner, review date, and purpose. Perform service account reviews to validate that all active accounts are authorized, on a recurring schedule at a minimum quarterly, or more frequently.",
+    "id": "course-of-action--3e91cbe9-80d9-4ba8-a210-4bba5ac39362",
+    "external_references": [
+      {
+        "external_id": "CSC 5.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish and Maintain an Inventory of Service Accounts",
+    "type": "course-of-action",
+    "x_cis_family": "Account Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and follow a process, preferably automated, for granting access to enterprise assets upon new hire, rights grant, or role change of a user.",
+    "id": "course-of-action--5a84d0b5-c871-4909-b139-2a8b73bea259",
+    "external_references": [
+      {
+        "external_id": "CSC 6.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish an Access Granting Process",
+    "type": "course-of-action",
+    "x_cis_family": "Access Control Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Establish and follow a process, preferably automated, for revoking access to enterprise assets, through disabling accounts immediately upon termination, rights revocation, or role change of a user. Disabling accounts, instead of deleting accounts, may be necessary to preserve audit trails.",
+    "id": "course-of-action--f954d15d-f61a-4924-97cd-a2a7a871424a",
+    "external_references": [
+      {
+        "external_id": "CSC 6.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Establish an Access Revoking Process",
+    "type": "course-of-action",
+    "x_cis_family": "Access Control Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Require all externally-exposed enterprise or third-party applications to enforce MFA, where supported. Enforcing MFA through a directory service or SSO provider is a satisfactory implementation of this Safeguard.",
+    "id": "course-of-action--cbdfe68a-6c9b-4e05-8efe-b8acb803386c",
+    "external_references": [
+      {
+        "external_id": "CSC 6.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Require MFA for Externally-Exposed Applications",
+    "type": "course-of-action",
+    "x_cis_family": "Access Control Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.851Z",
+    "description": "Require MFA for remote network access.",
+    "id": "course-of-action--83bfe69d-ba7a-4791-9740-41cce6cbc241",
+    "external_references": [
+      {
+        "external_id": "CSC 6.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.851Z",
+    "name": "Require MFA for Remote Network Access",
+    "type": "course-of-action",
+    "x_cis_family": "Access Control Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Require MFA for all administrative access accounts, where supported, on all enterprise assets, whether managed on-site or through a third-party provider.",
+    "id": "course-of-action--944ed1d2-067e-42af-a7da-e1cd601bd369",
+    "external_references": [
+      {
+        "external_id": "CSC 6.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Require MFA for Administrative Access",
+    "type": "course-of-action",
+    "x_cis_family": "Access Control Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Define and maintain role-based access control, through determining and documenting the access rights necessary for each role within the enterprise to successfully carry out its assigned duties. Perform access control reviews of enterprise assets to validate that all privileges are authorized, on a recurring schedule at a minimum annually, or more frequently.",
+    "id": "course-of-action--73b761ae-9fae-4db9-aecd-8c0e7b28d6c8",
+    "external_references": [
+      {
+        "external_id": "CSC 6.8",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Define and Maintain Role-Based Access Control",
+    "type": "course-of-action",
+    "x_cis_family": "Access Control Management",
+    "x_cis_ig": "IG3"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Establish and maintain a documented vulnerability management process for enterprise assets. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.",
+    "id": "course-of-action--8d96c2d9-a369-4651-8919-f69f3b0a0cdd",
+    "external_references": [
+      {
+        "external_id": "CSC 7.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Establish and Maintain a Vulnerability Management Process",
+    "type": "course-of-action",
+    "x_cis_family": "Continuous Vulnerability Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Establish and maintain a risk-based remediation strategy documented in a remediation process, with monthly, or more frequent, reviews.",
+    "id": "course-of-action--e8afa4f9-a2bf-41d0-8814-1af5c4ab0ac9",
+    "external_references": [
+      {
+        "external_id": "CSC 7.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Establish and Maintain a Remediation Process",
+    "type": "course-of-action",
+    "x_cis_family": "Continuous Vulnerability Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Perform operating system updates on enterprise assets through automated patch management on a monthly, or more frequent, basis.",
+    "id": "course-of-action--d8f32256-02da-4c70-8587-9c2e32ba7cdf",
+    "external_references": [
+      {
+        "external_id": "CSC 7.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Perform Automated Operating System Patch Management",
+    "type": "course-of-action",
+    "x_cis_family": "Continuous Vulnerability Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Perform application updates on enterprise assets through automated patch management on a monthly, or more frequent, basis.",
+    "id": "course-of-action--f3c82ed5-f77c-4f0a-996f-3fb1da366d0d",
+    "external_references": [
+      {
+        "external_id": "CSC 7.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Perform Automated Application Patch Management",
+    "type": "course-of-action",
+    "x_cis_family": "Continuous Vulnerability Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Perform automated vulnerability scans of internal enterprise assets on a quarterly, or more frequent, basis. Conduct both authenticated and unauthenticated scans, using a SCAP-compliant vulnerability scanning tool.",
+    "id": "course-of-action--ef41235d-be7f-460a-8db0-65e020ec5799",
+    "external_references": [
+      {
+        "external_id": "CSC 7.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Perform Automated Vulnerability Scans of Internal Enterprise Assets",
+    "type": "course-of-action",
+    "x_cis_family": "Continuous Vulnerability Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Perform automated vulnerability scans of externally-exposed enterprise assets using a SCAP-compliant vulnerability scanning tool. Perform scans on a monthly, or more frequent, basis. ",
+    "id": "course-of-action--24499f30-0da5-4dcd-86a5-fb4736bca093",
+    "external_references": [
+      {
+        "external_id": "CSC 7.6",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets",
+    "type": "course-of-action",
+    "x_cis_family": "Continuous Vulnerability Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Remediate detected vulnerabilities in software through processes and tooling on a monthly, or more frequent, basis, based on the remediation process.",
+    "id": "course-of-action--06e8790c-c0b7-4204-ae17-bf251013fbd1",
+    "external_references": [
+      {
+        "external_id": "CSC 7.7",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Remediate Detected Vulnerabilities",
+    "type": "course-of-action",
+    "x_cis_family": "Continuous Vulnerability Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Establish and maintain an audit log management process that defines the enterprise’s logging requirements. At a minimum, address the collection, review, and retention of audit logs for enterprise assets. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard.",
+    "id": "course-of-action--67537b76-a3cc-456c-a798-39f1227e8f1d",
+    "external_references": [
+      {
+        "external_id": "CSC 8.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Establish and Maintain an Audit Log Management Process",
+    "type": "course-of-action",
+    "x_cis_family": "Audit Log Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Retain audit logs across enterprise assets for a minimum of 90 days.",
+    "id": "course-of-action--dfb45bf2-3529-4a61-819a-5ffc6de4533d",
+    "external_references": [
+      {
+        "external_id": "CSC 8.10",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Retain Audit Logs",
+    "type": "course-of-action",
+    "x_cis_family": "Audit Log Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Conduct reviews of audit logs to detect anomalies or abnormal events that could indicate a potential threat. Conduct reviews on a weekly, or more frequent, basis.",
+    "id": "course-of-action--2e730f5f-22fe-41f7-b645-d57e1d52cf9b",
+    "external_references": [
+      {
+        "external_id": "CSC 8.11",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Conduct Audit Log Reviews",
+    "type": "course-of-action",
+    "x_cis_family": "Audit Log Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Collect audit logs. Ensure that logging, per the enterprise’s audit log management process, has been enabled across enterprise assets.",
+    "id": "course-of-action--a6f62b22-1d66-49fa-9360-36318e18557d",
+    "external_references": [
+      {
+        "external_id": "CSC 8.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Collect Audit Logs",
+    "type": "course-of-action",
+    "x_cis_family": "Audit Log Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Ensure that logging destinations maintain adequate storage to comply with the enterprise’s audit log management process.",
+    "id": "course-of-action--42fb4e75-f362-45ad-9e03-cc010610e0aa",
+    "external_references": [
+      {
+        "external_id": "CSC 8.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Ensure Adequate Audit Log Storage",
+    "type": "course-of-action",
+    "x_cis_family": "Audit Log Management",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Configure detailed audit logging for enterprise assets containing sensitive data. Include event source, date, username, timestamp, source addresses, destination addresses, and other useful elements that could assist in a forensic investigation.",
+    "id": "course-of-action--aa4f8bfe-5fe7-491d-8e7d-b014a529c55c",
+    "external_references": [
+      {
+        "external_id": "CSC 8.5",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Collect Detailed Audit Logs",
+    "type": "course-of-action",
+    "x_cis_family": "Audit Log Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Centralize, to the extent possible, audit log collection and retention across enterprise assets.",
+    "id": "course-of-action--9a9d2cc4-102e-40f6-b26c-580090bca6d1",
+    "external_references": [
+      {
+        "external_id": "CSC 8.9",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Centralize Audit Logs",
+    "type": "course-of-action",
+    "x_cis_family": "Audit Log Management",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Ensure only fully supported browsers and email clients are allowed to execute in the enterprise, only using the latest version of browsers and email clients provided through the vendor.",
+    "id": "course-of-action--09192730-67dd-43c4-b4b7-cfbc09b68ede",
+    "external_references": [
+      {
+        "external_id": "CSC 9.1",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Ensure Use of Only Fully Supported Browsers and Email Clients",
+    "type": "course-of-action",
+    "x_cis_family": "Email and Web Browser Protections",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Use DNS filtering services on all enterprise assets to block access to known malicious domains.",
+    "id": "course-of-action--c1be65b7-14f7-451a-9984-4f5344fee9c8",
+    "external_references": [
+      {
+        "external_id": "CSC 9.2",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Use DNS Filtering Services",
+    "type": "course-of-action",
+    "x_cis_family": "Email and Web Browser Protections",
+    "x_cis_ig": "IG1"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Enforce and update network-based URL filters to limit an enterprise asset from connecting to potentially malicious or unapproved websites. Example implementations include category-based filtering, reputation-based filtering, or through the use of block lists. Enforce filters for all enterprise assets.",
+    "id": "course-of-action--4dff4b36-1fb1-4be6-bd85-b377e28715c7",
+    "external_references": [
+      {
+        "external_id": "CSC 9.3",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Maintain and Enforce Network-Based URL Filters",
+    "type": "course-of-action",
+    "x_cis_family": "Email and Web Browser Protections",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Restrict, either through uninstalling or disabling, any unauthorized or unnecessary browser or email client plugins, extensions, and add-on applications.",
+    "id": "course-of-action--da99e38e-4823-497f-a006-3f3511864a87",
+    "external_references": [
+      {
+        "external_id": "CSC 9.4",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Restrict Unnecessary or Unauthorized Browser and Email Client Extensions",
+    "type": "course-of-action",
+    "x_cis_family": "Email and Web Browser Protections",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Block unnecessary file types attempting to enter the enterprise’s email gateway.",
+    "id": "course-of-action--fbfe0dd4-fb4c-4d3b-a8b5-2d804ca952be",
+    "external_references": [
+      {
+        "external_id": "CSC 9.6",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Block Unnecessary File Types",
+    "type": "course-of-action",
+    "x_cis_family": "Email and Web Browser Protections",
+    "x_cis_ig": "IG2"
+  },
+  {
+    "created": "2023-03-11T00:21:08.852Z",
+    "description": "Deploy and maintain email server anti-malware protections, such as attachment scanning and/or sandboxing.",
+    "id": "course-of-action--b2b8401d-82d3-4bb6-b7fc-4aaf397792f3",
+    "external_references": [
+      {
+        "external_id": "CSC 9.7",
+        "source_name": "CIS Controls v8"
+      }
+    ],
+    "modified": "2023-03-11T00:21:08.852Z",
+    "name": "Deploy and Maintain Email Server Anti-Malware Protections",
+    "type": "course-of-action",
+    "x_cis_family": "Email and Web Browser Protections",
+    "x_cis_ig": "IG3"
+  }
+],
+    "spec_version": "2.0",
+    "type": "bundle"
+}
